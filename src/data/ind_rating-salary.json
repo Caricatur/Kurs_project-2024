@@ -1,0 +1,212 @@
+[
+  {
+    "Rating": 1,
+    "Grade": "Intern",
+    "Salary": 587952
+  },
+  {
+    "Rating": 1,
+    "Grade": "Junior",
+    "Salary": 226666.7
+  },
+  {
+    "Rating": 1,
+    "Grade": "Middle",
+    "Salary": 483142.9
+  },
+  {
+    "Rating": 1,
+    "Grade": "Senior",
+    "Salary": 900000
+  },
+  {
+    "Rating": 1.5,
+    "Grade": "Intern",
+    "Salary": 116000
+  },
+  {
+    "Rating": 1.5,
+    "Grade": "Junior",
+    "Salary": 400000
+  },
+  {
+    "Rating": 1.5,
+    "Grade": "Lead",
+    "Salary": 1926000
+  },
+  {
+    "Rating": 1.5,
+    "Grade": "Middle",
+    "Salary": 275733.3
+  },
+  {
+    "Rating": 2,
+    "Grade": "Intern",
+    "Salary": 227764.7
+  },
+  {
+    "Rating": 2,
+    "Grade": "Junior",
+    "Salary": 241454.5
+  },
+  {
+    "Rating": 2,
+    "Grade": "Lead",
+    "Salary": 3200000
+  },
+  {
+    "Rating": 2,
+    "Grade": "Middle",
+    "Salary": 481741.5
+  },
+  {
+    "Rating": 2,
+    "Grade": "Senior",
+    "Salary": 1022000
+  },
+  {
+    "Rating": 2.5,
+    "Grade": "Intern",
+    "Salary": 412407.5
+  },
+  {
+    "Rating": 2.5,
+    "Grade": "Junior",
+    "Salary": 214000
+  },
+  {
+    "Rating": 2.5,
+    "Grade": "Middle",
+    "Salary": 545639.3
+  },
+  {
+    "Rating": 2.5,
+    "Grade": "Senior",
+    "Salary": 912266.7
+  },
+  {
+    "Rating": 3,
+    "Grade": "Intern",
+    "Salary": 333881
+  },
+  {
+    "Rating": 3,
+    "Grade": "Junior",
+    "Salary": 318069
+  },
+  {
+    "Rating": 3,
+    "Grade": "Lead",
+    "Salary": 1106400
+  },
+  {
+    "Rating": 3,
+    "Grade": "Middle",
+    "Salary": 611404.6
+  },
+  {
+    "Rating": 3,
+    "Grade": "Senior",
+    "Salary": 938588.2
+  },
+  {
+    "Rating": 3.5,
+    "Grade": "Intern",
+    "Salary": 351434.8
+  },
+  {
+    "Rating": 3.5,
+    "Grade": "Junior",
+    "Salary": 411945.9
+  },
+  {
+    "Rating": 3.5,
+    "Grade": "Lead",
+    "Salary": 1351571.4
+  },
+  {
+    "Rating": 3.5,
+    "Grade": "Middle",
+    "Salary": 709164.7
+  },
+  {
+    "Rating": 3.5,
+    "Grade": "Senior",
+    "Salary": 1034660.4
+  },
+  {
+    "Rating": 4,
+    "Grade": "Intern",
+    "Salary": 370418.7
+  },
+  {
+    "Rating": 4,
+    "Grade": "Junior",
+    "Salary": 357393.7
+  },
+  {
+    "Rating": 4,
+    "Grade": "Lead",
+    "Salary": 1428156.6
+  },
+  {
+    "Rating": 4,
+    "Grade": "Middle",
+    "Salary": 702832.6
+  },
+  {
+    "Rating": 4,
+    "Grade": "Senior",
+    "Salary": 1059707.7
+  },
+  {
+    "Rating": 4.5,
+    "Grade": "Intern",
+    "Salary": 362623.2
+  },
+  {
+    "Rating": 4.5,
+    "Grade": "Junior",
+    "Salary": 457147.1
+  },
+  {
+    "Rating": 4.5,
+    "Grade": "Lead",
+    "Salary": 2178333.3
+  },
+  {
+    "Rating": 4.5,
+    "Grade": "Middle",
+    "Salary": 740044.9
+  },
+  {
+    "Rating": 4.5,
+    "Grade": "Senior",
+    "Salary": 1207305.3
+  },
+  {
+    "Rating": 5,
+    "Grade": "Intern",
+    "Salary": 280383.2
+  },
+  {
+    "Rating": 5,
+    "Grade": "Junior",
+    "Salary": 318482.8
+  },
+  {
+    "Rating": 5,
+    "Grade": "Lead",
+    "Salary": 975000
+  },
+  {
+    "Rating": 5,
+    "Grade": "Middle",
+    "Salary": 617747.9
+  },
+  {
+    "Rating": 5,
+    "Grade": "Senior",
+    "Salary": 1064482.8
+  }
+]

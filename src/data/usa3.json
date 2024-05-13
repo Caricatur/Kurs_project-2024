@@ -1,0 +1,202 @@
+[
+  {
+    "State": "Alabama",
+    "salary_mean": 8762.4
+  },
+  {
+    "State": "Alaska",
+    "salary_mean": 4827.5
+  },
+  {
+    "State": "Arkansas",
+    "salary_mean": 5700.6
+  },
+  {
+    "State": "California",
+    "salary_mean": 11142.3
+  },
+  {
+    "State": "Colorado",
+    "salary_mean": 10701.9
+  },
+  {
+    "State": "Connecticut",
+    "salary_mean": 9644.4
+  },
+  {
+    "State": "Delaware",
+    "salary_mean": 8546.8
+  },
+  {
+    "State": "District of Columbia",
+    "salary_mean": 10996.8
+  },
+  {
+    "State": "Florida",
+    "salary_mean": 7384.1
+  },
+  {
+    "State": "Georgia",
+    "salary_mean": 9572.6
+  },
+  {
+    "State": "Hawaii",
+    "salary_mean": 1858.8
+  },
+  {
+    "State": "Idaho",
+    "salary_mean": 7748.6
+  },
+  {
+    "State": "Illinois",
+    "salary_mean": 8783.4
+  },
+  {
+    "State": "Indiana",
+    "salary_mean": 7132.1
+  },
+  {
+    "State": "Iowa",
+    "salary_mean": 6458
+  },
+  {
+    "State": "Kansas",
+    "salary_mean": 7626.5
+  },
+  {
+    "State": "Kentucky",
+    "salary_mean": 5430.9
+  },
+  {
+    "State": "Louisiana",
+    "salary_mean": 5012.2
+  },
+  {
+    "State": "Maine",
+    "salary_mean": 7792
+  },
+  {
+    "State": "Maryland",
+    "salary_mean": 9795.6
+  },
+  {
+    "State": "Massachusetts",
+    "salary_mean": 10981.4
+  },
+  {
+    "State": "Michigan",
+    "salary_mean": 7955.1
+  },
+  {
+    "State": "Minnesota",
+    "salary_mean": 8783.9
+  },
+  {
+    "State": "Mississippi",
+    "salary_mean": 6204.1
+  },
+  {
+    "State": "Missouri",
+    "salary_mean": 6274.9
+  },
+  {
+    "State": "Montana",
+    "salary_mean": 4867.2
+  },
+  {
+    "State": "Nebraska",
+    "salary_mean": 7432.6
+  },
+  {
+    "State": "Nevada",
+    "salary_mean": 7927.3
+  },
+  {
+    "State": "New Hampshire",
+    "salary_mean": 9056.2
+  },
+  {
+    "State": "New Jersey",
+    "salary_mean": 8908.1
+  },
+  {
+    "State": "New Mexico",
+    "salary_mean": 9614.2
+  },
+  {
+    "State": "New York",
+    "salary_mean": 9453.5
+  },
+  {
+    "State": "North Carolina",
+    "salary_mean": 9745.6
+  },
+  {
+    "State": "North Dakota",
+    "salary_mean": 8762.1
+  },
+  {
+    "State": "Ohio",
+    "salary_mean": 7835.2
+  },
+  {
+    "State": "Oklahoma",
+    "salary_mean": 7374.9
+  },
+  {
+    "State": "Oregon",
+    "salary_mean": 8895.1
+  },
+  {
+    "State": "Pennsylvania",
+    "salary_mean": 8295.4
+  },
+  {
+    "State": "Rhode Island",
+    "salary_mean": 10147.9
+  },
+  {
+    "State": "South Carolina",
+    "salary_mean": 6943
+  },
+  {
+    "State": "South Dakota",
+    "salary_mean": 8797.7
+  },
+  {
+    "State": "Tennessee",
+    "salary_mean": 8495.6
+  },
+  {
+    "State": "Texas",
+    "salary_mean": 10396
+  },
+  {
+    "State": "Utah",
+    "salary_mean": 8451.1
+  },
+  {
+    "State": "Vermont",
+    "salary_mean": 8197.4
+  },
+  {
+    "State": "Virginia",
+    "salary_mean": 10430.2
+  },
+  {
+    "State": "Washington",
+    "salary_mean": 12235.3
+  },
+  {
+    "State": "West Virginia",
+    "salary_mean": 5709.1
+  },
+  {
+    "State": "Wisconsin",
+    "salary_mean": 7608.5
+  },
+  {
+    "State": "Wyoming",
+    "salary_mean": 6998.9
+  }
+]

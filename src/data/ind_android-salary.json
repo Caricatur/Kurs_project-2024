@@ -1,0 +1,247 @@
+[
+    {
+      "Job Roles": "Analyst",
+      "Grade": "Intern",
+      "Salary": 241600
+    },
+    {
+      "Job Roles": "Analyst",
+      "Grade": "Junior",
+      "Salary": 586000
+    },
+    {
+      "Job Roles": "Analyst",
+      "Grade": "Lead",
+      "Salary": 1659259.3
+    },
+    {
+      "Job Roles": "Analyst",
+      "Grade": "Middle",
+      "Salary": 865275.4
+    },
+    {
+      "Job Roles": "Analyst",
+      "Grade": "Senior",
+      "Salary": 1125405
+    },
+    {
+      "Job Roles": "Android",
+      "Grade": "Intern",
+      "Salary": 256852.9
+    },
+    {
+      "Job Roles": "Android",
+      "Grade": "Junior",
+      "Salary": 286736.8
+    },
+    {
+      "Job Roles": "Android",
+      "Grade": "Lead",
+      "Salary": 1679733.3
+    },
+    {
+      "Job Roles": "Android",
+      "Grade": "Middle",
+      "Salary": 522087.8
+    },
+    {
+      "Job Roles": "Android",
+      "Grade": "Senior",
+      "Salary": 981451.5
+    },
+    {
+      "Job Roles": "Backend",
+      "Grade": "Intern",
+      "Salary": 263045.8
+    },
+    {
+      "Job Roles": "Backend",
+      "Grade": "Junior",
+      "Salary": 404888.9
+    },
+    {
+      "Job Roles": "Backend",
+      "Grade": "Lead",
+      "Salary": 1367111.1
+    },
+    {
+      "Job Roles": "Backend",
+      "Grade": "Middle",
+      "Salary": 769753.4
+    },
+    {
+      "Job Roles": "Backend",
+      "Grade": "Senior",
+      "Salary": 1545476.6
+    },
+    {
+      "Job Roles": "Frontend",
+      "Grade": "Intern",
+      "Salary": 260060.5
+    },
+    {
+      "Job Roles": "Frontend",
+      "Grade": "Junior",
+      "Salary": 434666.7
+    },
+    {
+      "Job Roles": "Frontend",
+      "Grade": "Lead",
+      "Salary": 2493750
+    },
+    {
+      "Job Roles": "Frontend",
+      "Grade": "Middle",
+      "Salary": 585277.1
+    },
+    {
+      "Job Roles": "Frontend",
+      "Grade": "Senior",
+      "Salary": 1312392.5
+    },
+    {
+      "Job Roles": "IOS",
+      "Grade": "Intern",
+      "Salary": 241017.8
+    },
+    {
+      "Job Roles": "IOS",
+      "Grade": "Junior",
+      "Salary": 392233.6
+    },
+    {
+      "Job Roles": "IOS",
+      "Grade": "Lead",
+      "Salary": 1555840
+    },
+    {
+      "Job Roles": "IOS",
+      "Grade": "Middle",
+      "Salary": 627698.5
+    },
+    {
+      "Job Roles": "IOS",
+      "Grade": "Senior",
+      "Salary": 955593
+    },
+    {
+      "Job Roles": "Java",
+      "Grade": "Intern",
+      "Salary": 291722.7
+    },
+    {
+      "Job Roles": "Java",
+      "Grade": "Junior",
+      "Salary": 364835.9
+    },
+    {
+      "Job Roles": "Java",
+      "Grade": "Lead",
+      "Salary": 936888.9
+    },
+    {
+      "Job Roles": "Java",
+      "Grade": "Middle",
+      "Salary": 503014.6
+    },
+    {
+      "Job Roles": "Java",
+      "Grade": "Senior",
+      "Salary": 891913
+    },
+    {
+      "Job Roles": "Mobile",
+      "Grade": "Intern",
+      "Salary": 245040.3
+    },
+    {
+      "Job Roles": "Mobile",
+      "Grade": "Lead",
+      "Salary": 1662500
+    },
+    {
+      "Job Roles": "Mobile",
+      "Grade": "Middle",
+      "Salary": 505225.7
+    },
+    {
+      "Job Roles": "Mobile",
+      "Grade": "Senior",
+      "Salary": 1418344.8
+    },
+    {
+      "Job Roles": "Python",
+      "Grade": "Intern",
+      "Salary": 262545.5
+    },
+    {
+      "Job Roles": "Python",
+      "Grade": "Junior",
+      "Salary": 307492.1
+    },
+    {
+      "Job Roles": "Python",
+      "Grade": "Lead",
+      "Salary": 756800
+    },
+    {
+      "Job Roles": "Python",
+      "Grade": "Middle",
+      "Salary": 495300.6
+    },
+    {
+      "Job Roles": "Python",
+      "Grade": "Senior",
+      "Salary": 867043.5
+    },
+    {
+      "Job Roles": "Software Developer",
+      "Grade": "Intern",
+      "Salary": 426339
+    },
+    {
+      "Job Roles": "Software Developer",
+      "Grade": "Junior",
+      "Salary": 439714.3
+    },
+    {
+      "Job Roles": "Software Developer",
+      "Grade": "Lead",
+      "Salary": 1670876.7
+    },
+    {
+      "Job Roles": "Software Developer",
+      "Grade": "Middle",
+      "Salary": 892154.8
+    },
+    {
+      "Job Roles": "Software Developer",
+      "Grade": "Senior",
+      "Salary": 1201779.2
+    },
+    {
+      "Job Roles": "Testing",
+      "Grade": "Intern",
+      "Salary": 555117.9
+    },
+    {
+      "Job Roles": "Testing",
+      "Grade": "Junior",
+      "Salary": 500000
+    },
+    {
+      "Job Roles": "Testing",
+      "Grade": "Lead",
+      "Salary": 460714.3
+    },
+    {
+      "Job Roles": "Testing",
+      "Grade": "Middle",
+      "Salary": 492632.5
+    },
+    {
+      "Job Roles": "Testing",
+      "Grade": "Senior",
+      "Salary": 561641
+    }
+  ]

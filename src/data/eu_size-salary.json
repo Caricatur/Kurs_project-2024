@@ -1,0 +1,292 @@
+[
+    {
+      "Company size": "10-50",
+      "Position": "Analyst",
+      "salary": 74000
+    },
+    {
+      "Company size": "10-50",
+      "Position": "Backend Developer",
+      "salary": 61364
+    },
+    {
+      "Company size": "10-50",
+      "Position": "Data Scientist",
+      "salary": 61226
+    },
+    {
+      "Company size": "10-50",
+      "Position": "Designer (UI/UX)",
+      "salary": 56988
+    },
+    {
+      "Company size": "10-50",
+      "Position": "DevOps",
+      "salary": 64948
+    },
+    {
+      "Company size": "10-50",
+      "Position": "Frontend Developer",
+      "salary": 64797
+    },
+    {
+      "Company size": "10-50",
+      "Position": "Manager",
+      "salary": 65903
+    },
+    {
+      "Company size": "10-50",
+      "Position": "Mobile Developer",
+      "salary": 64340
+    },
+    {
+      "Company size": "10-50",
+      "Position": "Recruiter",
+      "salary": 20000
+    },
+    {
+      "Company size": "10-50",
+      "Position": "Security Engineer",
+      "salary": 34866
+    },
+    {
+      "Company size": "10-50",
+      "Position": "Software Engineer",
+      "salary": 66214
+    },
+    {
+      "Company size": "10-50",
+      "Position": "Tester",
+      "salary": 67666
+    },
+    {
+      "Company size": "100-1000",
+      "Position": "Analyst",
+      "salary": 66874
+    },
+    {
+      "Company size": "100-1000",
+      "Position": "Backend Developer",
+      "salary": 72494
+    },
+    {
+      "Company size": "100-1000",
+      "Position": "Data Scientist",
+      "salary": 81421
+    },
+    {
+      "Company size": "100-1000",
+      "Position": "Designer (UI/UX)",
+      "salary": 74833
+    },
+    {
+      "Company size": "100-1000",
+      "Position": "DevOps",
+      "salary": 70541
+    },
+    {
+      "Company size": "100-1000",
+      "Position": "Frontend Developer",
+      "salary": 73514
+    },
+    {
+      "Company size": "100-1000",
+      "Position": "Manager",
+      "salary": 72979
+    },
+    {
+      "Company size": "100-1000",
+      "Position": "Mobile Developer",
+      "salary": 67258
+    },
+    {
+      "Company size": "100-1000",
+      "Position": "Recruiter",
+      "salary": 71944
+    },
+    {
+      "Company size": "100-1000",
+      "Position": "Security Engineer",
+      "salary": 65620
+    },
+    {
+      "Company size": "100-1000",
+      "Position": "Software Engineer",
+      "salary": 75314
+    },
+    {
+      "Company size": "100-1000",
+      "Position": "Tester",
+      "salary": 63775
+    },
+    {
+      "Company size": "1000+",
+      "Position": "Analyst",
+      "salary": 90231
+    },
+    {
+      "Company size": "1000+",
+      "Position": "Backend Developer",
+      "salary": 96776
+    },
+    {
+      "Company size": "1000+",
+      "Position": "Data Scientist",
+      "salary": 100143
+    },
+    {
+      "Company size": "1000+",
+      "Position": "Designer (UI/UX)",
+      "salary": 88777
+    },
+    {
+      "Company size": "1000+",
+      "Position": "DevOps",
+      "salary": 81987
+    },
+    {
+      "Company size": "1000+",
+      "Position": "Frontend Developer",
+      "salary": 87713
+    },
+    {
+      "Company size": "1000+",
+      "Position": "Manager",
+      "salary": 74723
+    },
+    {
+      "Company size": "1000+",
+      "Position": "Mobile Developer",
+      "salary": 71631
+    },
+    {
+      "Company size": "1000+",
+      "Position": "Recruiter",
+      "salary": 69463
+    },
+    {
+      "Company size": "1000+",
+      "Position": "Security Engineer",
+      "salary": 80260
+    },
+    {
+      "Company size": "1000+",
+      "Position": "Software Engineer",
+      "salary": 94337
+    },
+    {
+      "Company size": "1000+",
+      "Position": "Tester",
+      "salary": 79222
+    },
+    {
+      "Company size": "50-100",
+      "Position": "Analyst",
+      "salary": 70330
+    },
+    {
+      "Company size": "50-100",
+      "Position": "Backend Developer",
+      "salary": 67725
+    },
+    {
+      "Company size": "50-100",
+      "Position": "Data Scientist",
+      "salary": 70350
+    },
+    {
+      "Company size": "50-100",
+      "Position": "Designer (UI/UX)",
+      "salary": 33000
+    },
+    {
+      "Company size": "50-100",
+      "Position": "DevOps",
+      "salary": 63608
+    },
+    {
+      "Company size": "50-100",
+      "Position": "Frontend Developer",
+      "salary": 59892
+    },
+    {
+      "Company size": "50-100",
+      "Position": "Manager",
+      "salary": 64683
+    },
+    {
+      "Company size": "50-100",
+      "Position": "Mobile Developer",
+      "salary": 69488
+    },
+    {
+      "Company size": "50-100",
+      "Position": "Recruiter",
+      "salary": 64577
+    },
+    {
+      "Company size": "50-100",
+      "Position": "Security Engineer",
+      "salary": 37363
+    },
+    {
+      "Company size": "50-100",
+      "Position": "Software Engineer",
+      "salary": 73377
+    },
+    {
+      "Company size": "50-100",
+      "Position": "Tester",
+      "salary": 63833
+    },
+    {
+      "Company size": "up to 10",
+      "Position": "Analyst",
+      "salary": 50111
+    },
+    {
+      "Company size": "up to 10",
+      "Position": "Backend Developer",
+      "salary": 60513
+    },
+    {
+      "Company size": "up to 10",
+      "Position": "Data Scientist",
+      "salary": 60135
+    },
+    {
+      "Company size": "up to 10",
+      "Position": "Designer (UI/UX)",
+      "salary": 30555
+    },
+    {
+      "Company size": "up to 10",
+      "Position": "DevOps",
+      "salary": 93333
+    },
+    {
+      "Company size": "up to 10",
+      "Position": "Frontend Developer",
+      "salary": 60500
+    },
+    {
+      "Company size": "up to 10",
+      "Position": "Mobile Developer",
+      "salary": 65555
+    },
+    {
+      "Company size": "up to 10",
+      "Position": "Security Engineer",
+      "salary": 82100
+    },
+    {
+      "Company size": "up to 10",
+      "Position": "Software Engineer",
+      "salary": 90113
+    },
+    {
+      "Company size": "up to 10",
+      "Position": "Tester",
+      "salary": 50166
+    }
+  ]

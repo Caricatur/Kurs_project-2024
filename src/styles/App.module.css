@@ -10,7 +10,7 @@
 
 .layoutStyle {
     border-radius: 5% 5%;
-    background-color: rgb(255, 250, 246);
+    background-color: rgb(255, 255, 255);
     font-family: "Raleway", sans-serif;
     font-optical-sizing: auto;
     font-style: normal;
@@ -21,6 +21,7 @@
     z-index: 0;
     align-items: center;
     position: sticky;
+    display: inline;
     left: 0;
     /* top: 12%; */
     background-color: #ffffff;
@@ -33,19 +34,66 @@
     overflow: auto;
     font-size: 20px 5px;
     margin: 10px;
-    height: max-content;
+    max-width: 100%;
+    overflow: hidden;
+    /* height: max-content; */
+    /* width: max-content; */
+
     /* width: 30vw; */
     /* min-width: 130px; */
+    @media (max-width: 500px) {
+        max-width: 100%;
+        overflow: hidden;
+        padding-left: 10px;
+        margin-left: -4px;
+        /* position: absolute; */
+        /* position: relative;
+        display: block; */
+        /* color: green; */
+        
+    }
 }
+
+.siderWidth {
+    @media (max-width: 500px) {
+        max-width: 100%;
+        overflow: hidden;
+        /* margin-right: 15px; */
+        padding: auto;
+        z-index: 2;
+        /* position: absolute; */
+        /* position: relative;
+        display: block; */
+        /* color: green; */
+    }
+}
+
+
 
 .contentStyle {
     z-index: 0;
     display: inline;
     padding: 20px 5px;
     margin: 10px;
-    background-color: rgba(248, 224, 204, 0.6);
-    width: 75%;
+    background-color: rgba(254, 245, 238, 0.8);
+    /* width: 75%; */
     border-radius: 2%;
-    max-height: 90vh;
+    /* max-height: 90vh; */
     /* overflow: auto; */
+    /* display: block; */
+    @media (max-width: 600px) {
+        /* max-width: 100%; */
+        width: 90%;
+        padding-top: 20px 15px;
+        left: 0;
+        margin: 10px;
+        font-size: small;
+        padding-left: 2px;
+        margin-left: 0px;
+        /* flex: auto; */
+        /* position: relative;
+        display: block; */
+        /* color: green; */
+        
+    }
 }

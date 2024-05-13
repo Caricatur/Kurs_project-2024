@@ -1,0 +1,362 @@
+[
+    {
+      "professional_roles_name": "DevOps-инженер",
+      "experience": "Более 6 лет",
+      "salary": 294277.78
+    },
+    {
+      "professional_roles_name": "DevOps-инженер",
+      "experience": "Нет опыта",
+      "salary": 57500
+    },
+    {
+      "professional_roles_name": "DevOps-инженер",
+      "experience": "От 1 года до 3 лет",
+      "salary": 155157.79
+    },
+    {
+      "professional_roles_name": "DevOps-инженер",
+      "experience": "От 3 до 6 лет",
+      "salary": 270970.24
+    },
+    {
+      "professional_roles_name": "Аналитик",
+      "experience": "Более 6 лет",
+      "salary": 222754.55
+    },
+    {
+      "professional_roles_name": "Аналитик",
+      "experience": "Нет опыта",
+      "salary": 109970.1
+    },
+    {
+      "professional_roles_name": "Аналитик",
+      "experience": "От 1 года до 3 лет",
+      "salary": 139730.01
+    },
+    {
+      "professional_roles_name": "Аналитик",
+      "experience": "От 3 до 6 лет",
+      "salary": 309012.86
+    },
+    {
+      "professional_roles_name": "Бизнес-аналитик",
+      "experience": "Более 6 лет",
+      "salary": 245666.67
+    },
+    {
+      "professional_roles_name": "Бизнес-аналитик",
+      "experience": "Нет опыта",
+      "salary": 77771.35
+    },
+    {
+      "professional_roles_name": "Бизнес-аналитик",
+      "experience": "От 1 года до 3 лет",
+      "salary": 201373.59
+    },
+    {
+      "professional_roles_name": "Бизнес-аналитик",
+      "experience": "От 3 до 6 лет",
+      "salary": 332985.63
+    },
+    {
+      "professional_roles_name": "Гейм-дизайнер",
+      "experience": "Более 6 лет",
+      "salary": 96463.95
+    },
+    {
+      "professional_roles_name": "Гейм-дизайнер",
+      "experience": "Нет опыта",
+      "salary": 128020.16
+    },
+    {
+      "professional_roles_name": "Гейм-дизайнер",
+      "experience": "От 1 года до 3 лет",
+      "salary": 147716.09
+    },
+    {
+      "professional_roles_name": "Гейм-дизайнер",
+      "experience": "От 3 до 6 лет",
+      "salary": 218812.49
+    },
+    {
+      "professional_roles_name": "Дата-сайентист",
+      "experience": "Более 6 лет",
+      "salary": 501750
+    },
+    {
+      "professional_roles_name": "Дата-сайентист",
+      "experience": "Нет опыта",
+      "salary": 91150
+    },
+    {
+      "professional_roles_name": "Дата-сайентист",
+      "experience": "От 1 года до 3 лет",
+      "salary": 131576.92
+    },
+    {
+      "professional_roles_name": "Дата-сайентист",
+      "experience": "От 3 до 6 лет",
+      "salary": 123111.11
+    },
+    {
+      "professional_roles_name": "Менеджер продукта",
+      "experience": "Более 6 лет",
+      "salary": 313226.9
+    },
+    {
+      "professional_roles_name": "Менеджер продукта",
+      "experience": "Нет опыта",
+      "salary": 61555.73
+    },
+    {
+      "professional_roles_name": "Менеджер продукта",
+      "experience": "От 1 года до 3 лет",
+      "salary": 307134.91
+    },
+    {
+      "professional_roles_name": "Менеджер продукта",
+      "experience": "От 3 до 6 лет",
+      "salary": 356973.32
+    },
+    {
+      "professional_roles_name": "Программист, разработчик",
+      "experience": "Более 6 лет",
+      "salary": 371501.97
+    },
+    {
+      "professional_roles_name": "Программист, разработчик",
+      "experience": "Нет опыта",
+      "salary": 72626.79
+    },
+    {
+      "professional_roles_name": "Программист, разработчик",
+      "experience": "От 1 года до 3 лет",
+      "salary": 163576.63
+    },
+    {
+      "professional_roles_name": "Программист, разработчик",
+      "experience": "От 3 до 6 лет",
+      "salary": 261720.33
+    },
+    {
+      "professional_roles_name": "Продуктовый аналитик",
+      "experience": "Более 6 лет",
+      "salary": 619000
+    },
+    {
+      "professional_roles_name": "Продуктовый аналитик",
+      "experience": "Нет опыта",
+      "salary": 43950
+    },
+    {
+      "professional_roles_name": "Продуктовый аналитик",
+      "experience": "От 1 года до 3 лет",
+      "salary": 109101.52
+    },
+    {
+      "professional_roles_name": "Продуктовый аналитик",
+      "experience": "От 3 до 6 лет",
+      "salary": 182230.77
+    },
+    {
+      "professional_roles_name": "Руководитель группы разработки",
+      "experience": "Более 6 лет",
+      "salary": 395988.37
+    },
+    {
+      "professional_roles_name": "Руководитель группы разработки",
+      "experience": "Нет опыта",
+      "salary": 79937.5
+    },
+    {
+      "professional_roles_name": "Руководитель группы разработки",
+      "experience": "От 1 года до 3 лет",
+      "salary": 133716.87
+    },
+    {
+      "professional_roles_name": "Руководитель группы разработки",
+      "experience": "От 3 до 6 лет",
+      "salary": 216809.84
+    },
+    {
+      "professional_roles_name": "Руководитель отдела аналитики",
+      "experience": "Более 6 лет",
+      "salary": 220000
+    },
+    {
+      "professional_roles_name": "Руководитель отдела аналитики",
+      "experience": "Нет опыта",
+      "salary": 80000
+    },
+    {
+      "professional_roles_name": "Руководитель отдела аналитики",
+      "experience": "От 1 года до 3 лет",
+      "salary": 114808.33
+    },
+    {
+      "professional_roles_name": "Руководитель отдела аналитики",
+      "experience": "От 3 до 6 лет",
+      "salary": 143461.63
+    },
+    {
+      "professional_roles_name": "Руководитель проектов",
+      "experience": "Более 6 лет",
+      "salary": 531750.28
+    },
+    {
+      "professional_roles_name": "Руководитель проектов",
+      "experience": "Нет опыта",
+      "salary": 131203.67
+    },
+    {
+      "professional_roles_name": "Руководитель проектов",
+      "experience": "От 1 года до 3 лет",
+      "salary": 193624.44
+    },
+    {
+      "professional_roles_name": "Руководитель проектов",
+      "experience": "От 3 до 6 лет",
+      "salary": 228239.14
+    },
+    {
+      "professional_roles_name": "Сетевой инженер",
+      "experience": "Более 6 лет",
+      "salary": 220750
+    },
+    {
+      "professional_roles_name": "Сетевой инженер",
+      "experience": "Нет опыта",
+      "salary": 60301.34
+    },
+    {
+      "professional_roles_name": "Сетевой инженер",
+      "experience": "От 1 года до 3 лет",
+      "salary": 104754.77
+    },
+    {
+      "professional_roles_name": "Сетевой инженер",
+      "experience": "От 3 до 6 лет",
+      "salary": 141779.71
+    },
+    {
+      "professional_roles_name": "Системный администратор",
+      "experience": "Более 6 лет",
+      "salary": 161542.71
+    },
+    {
+      "professional_roles_name": "Системный администратор",
+      "experience": "Нет опыта",
+      "salary": 50390.79
+    },
+    {
+      "professional_roles_name": "Системный администратор",
+      "experience": "От 1 года до 3 лет",
+      "salary": 155917.66
+    },
+    {
+      "professional_roles_name": "Системный администратор",
+      "experience": "От 3 до 6 лет",
+      "salary": 207917.52
+    },
+    {
+      "professional_roles_name": "Системный аналитик",
+      "experience": "Более 6 лет",
+      "salary": 279166.67
+    },
+    {
+      "professional_roles_name": "Системный аналитик",
+      "experience": "Нет опыта",
+      "salary": 190093.55
+    },
+    {
+      "professional_roles_name": "Системный аналитик",
+      "experience": "От 1 года до 3 лет",
+      "salary": 145431.77
+    },
+    {
+      "professional_roles_name": "Системный аналитик",
+      "experience": "От 3 до 6 лет",
+      "salary": 224168.46
+    },
+    {
+      "professional_roles_name": "Системный инженер",
+      "experience": "Более 6 лет",
+      "salary": 221849.62
+    },
+    {
+      "professional_roles_name": "Системный инженер",
+      "experience": "Нет опыта",
+      "salary": 65884.59
+    },
+    {
+      "professional_roles_name": "Системный инженер",
+      "experience": "От 1 года до 3 лет",
+      "salary": 100093.86
+    },
+    {
+      "professional_roles_name": "Системный инженер",
+      "experience": "От 3 до 6 лет",
+      "salary": 258454.14
+    },
+    {
+      "professional_roles_name": "Специалист по информационной безопасности",
+      "experience": "Более 6 лет",
+      "salary": 240301.11
+    },
+    {
+      "professional_roles_name": "Специалист по информационной безопасности",
+      "experience": "Нет опыта",
+      "salary": 164658.67
+    },
+    {
+      "professional_roles_name": "Специалист по информационной безопасности",
+      "experience": "От 1 года до 3 лет",
+      "salary": 112644.27
+    },
+    {
+      "professional_roles_name": "Специалист по информационной безопасности",
+      "experience": "От 3 до 6 лет",
+      "salary": 136794.92
+    },
+    {
+      "professional_roles_name": "Тестировщик",
+      "experience": "Более 6 лет",
+      "salary": 200808.33
+    },
+    {
+      "professional_roles_name": "Тестировщик",
+      "experience": "Нет опыта",
+      "salary": 106669.61
+    },
+    {
+      "professional_roles_name": "Тестировщик",
+      "experience": "От 1 года до 3 лет",
+      "salary": 105837.39
+    },
+    {
+      "professional_roles_name": "Тестировщик",
+      "experience": "От 3 до 6 лет",
+      "salary": 152861.51
+    },
+    {
+      "professional_roles_name": "Технический директор (CTO)",
+      "experience": "Более 6 лет",
+      "salary": 305212.96
+    },
+    {
+      "professional_roles_name": "Технический директор (CTO)",
+      "experience": "Нет опыта",
+      "salary": 55000
+    },
+    {
+      "professional_roles_name": "Технический директор (CTO)",
+      "experience": "От 1 года до 3 лет",
+      "salary": 138117.87
+    },
+    {
+      "professional_roles_name": "Технический директор (CTO)",
+      "experience": "От 3 до 6 лет",
+      "salary": 263375.62
+    }
+  ]

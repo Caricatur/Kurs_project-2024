@@ -1,0 +1,225 @@
+grade,sex,country,profession,min_salary,median_salary,max_salary
+Intern,Female,СНГ,Software Engineer,310,630,1160
+Intern,Female,СНГ,Backend Developer,350,690,1440
+Intern,Female,СНГ,DevOps,280,630,1280
+Intern,Female,СНГ,Data Scientist,260,630,1150
+Intern,Female,СНГ,Frontend Developer,270,650,1450
+Intern,Female,СНГ,Analyst,390,690,1360
+Intern,Female,СНГ,Manager,380,670,1460
+Intern,Female,Германия,Software Engineer,1120,1890,3790
+Intern,Female,Германия,Backend Developer,960,1850,3150
+Intern,Female,Германия,DevOps,900,2000,4060
+Intern,Female,Германия,Data Scientist,840,2190,4220
+Intern,Female,Германия,Frontend Developer,1030,2050,3840
+Intern,Female,Германия,Analyst,1140,1960,3590
+Intern,Female,Германия,Manager,970,2100,4210
+Intern,Female,Индия,Software Engineer,110,270,550
+Intern,Female,Индия,Backend Developer,100,280,530
+Intern,Female,Индия,DevOps,150,300,570
+Intern,Female,Индия,Data Scientist,100,300,510
+Intern,Female,Индия,Frontend Developer,130,290,650
+Intern,Female,Индия,Analyst,150,320,510
+Intern,Female,Индия,Manager,110,270,570
+Intern,Female,США,Software Engineer,1600,3830,6510
+Intern,Female,США,Backend Developer,1650,3780,7030
+Intern,Female,США,DevOps,1580,3920,7380
+Intern,Female,США,Data Scientist,2130,4200,8080
+Intern,Female,США,Frontend Developer,1670,4100,7790
+Intern,Female,США,Analyst,1880,3830,6690
+Intern,Female,США,Manager,2260,3710,7400
+Intern,Male,СНГ,Software Engineer,360,720,1360
+Intern,Male,СНГ,Backend Developer,260,730,1290
+Intern,Male,СНГ,DevOps,390,650,1320
+Intern,Male,СНГ,Data Scientist,280,670,1180
+Intern,Male,СНГ,Frontend Developer,270,710,1390
+Intern,Male,СНГ,Analyst,280,710,1210
+Intern,Male,СНГ,Manager,310,720,1190
+Intern,Male,Германия,Software Engineer,1040,2020,3440
+Intern,Male,Германия,Backend Developer,820,1940,3390
+Intern,Male,Германия,DevOps,1040,2030,3320
+Intern,Male,Германия,Data Scientist,970,2150,3970
+Intern,Male,Германия,Frontend Developer,820,2150,4140
+Intern,Male,Германия,Analyst,870,2170,3280
+Intern,Male,Германия,Manager,770,1960,3160
+Intern,Male,Индия,Software Engineer,110,320,570
+Intern,Male,Индия,Backend Developer,150,290,650
+Intern,Male,Индия,DevOps,140,320,640
+Intern,Male,Индия,Data Scientist,150,310,550
+Intern,Male,Индия,Frontend Developer,140,280,580
+Intern,Male,Индия,Analyst,140,320,600
+Intern,Male,Индия,Manager,110,320,520
+Intern,Male,США,Software Engineer,2070,4200,7160
+Intern,Male,США,Backend Developer,2210,3920,7220
+Intern,Male,США,DevOps,2290,3620,8400
+Intern,Male,США,Data Scientist,1570,3820,7900
+Intern,Male,США,Frontend Developer,1620,4270,8370
+Intern,Male,США,Analyst,1510,3990,8440
+Intern,Male,США,Manager,1840,4370,7310
+Junior,Female,СНГ,Software Engineer,620,1200,2390
+Junior,Female,СНГ,Backend Developer,640,1270,2600
+Junior,Female,СНГ,DevOps,760,1400,2530
+Junior,Female,СНГ,Data Scientist,700,1370,2690
+Junior,Female,СНГ,Frontend Developer,630,1190,2080
+Junior,Female,СНГ,Analyst,540,1290,2540
+Junior,Female,СНГ,Manager,610,1250,2560
+Junior,Female,Германия,Software Engineer,1860,3170,4710
+Junior,Female,Германия,Backend Developer,1590,3040,5360
+Junior,Female,Германия,DevOps,1280,3110,4400
+Junior,Female,Германия,Data Scientist,1920,2790,4820
+Junior,Female,Германия,Frontend Developer,1480,2970,5890
+Junior,Female,Германия,Analyst,1600,2740,5180
+Junior,Female,Германия,Manager,1490,3190,5400
+Junior,Female,Индия,Software Engineer,300,660,1510
+Junior,Female,Индия,Backend Developer,300,690,1260
+Junior,Female,Индия,DevOps,290,660,1130
+Junior,Female,Индия,Data Scientist,320,720,1520
+Junior,Female,Индия,Frontend Developer,370,690,1150
+Junior,Female,Индия,Analyst,250,730,1220
+Junior,Female,Индия,Manager,360,670,1230
+Junior,Female,США,Software Engineer,3760,6100,11110
+Junior,Female,США,Backend Developer,3880,5430,8990
+Junior,Female,США,DevOps,2620,5650,9110
+Junior,Female,США,Data Scientist,3930,6040,11740
+Junior,Female,США,Frontend Developer,3460,5540,11090
+Junior,Female,США,Analyst,3490,6290,8930
+Junior,Female,США,Manager,2890,6500,10920
+Junior,Male,СНГ,Software Engineer,750,1210,2710
+Junior,Male,СНГ,Backend Developer,610,1220,2460
+Junior,Male,СНГ,DevOps,780,1410,2200
+Junior,Male,СНГ,Data Scientist,660,1380,2100
+Junior,Male,СНГ,Frontend Developer,790,1240,2710
+Junior,Male,СНГ,Analyst,600,1270,2110
+Junior,Male,СНГ,Manager,540,1320,2370
+Junior,Male,Германия,Software Engineer,1840,2790,5110
+Junior,Male,Германия,Backend Developer,1970,3290,5190
+Junior,Male,Германия,DevOps,1280,2950,5710
+Junior,Male,Германия,Data Scientist,1400,2980,4880
+Junior,Male,Германия,Frontend Developer,1810,2860,5870
+Junior,Male,Германия,Analyst,1610,3230,5080
+Junior,Male,Германия,Manager,1860,2830,4840
+Junior,Male,Индия,Software Engineer,370,650,1370
+Junior,Male,Индия,Backend Developer,290,650,1420
+Junior,Male,Индия,DevOps,350,630,1370
+Junior,Male,Индия,Data Scientist,330,660,1520
+Junior,Male,Индия,Frontend Developer,270,740,1330
+Junior,Male,Индия,Analyst,390,690,1390
+Junior,Male,Индия,Manager,280,760,1270
+Junior,Male,США,Software Engineer,3150,6130,10920
+Junior,Male,США,Backend Developer,3270,6420,9690
+Junior,Male,США,DevOps,3640,6430,10910
+Junior,Male,США,Data Scientist,3320,5980,9780
+Junior,Male,США,Frontend Developer,2570,5790,11520
+Junior,Male,США,Analyst,2760,6360,10000
+Junior,Male,США,Manager,3640,6380,9170
+Middle,Female,СНГ,Software Engineer,1400,2400,4920
+Middle,Female,СНГ,Backend Developer,1110,2630,3750
+Middle,Female,СНГ,DevOps,1090,2520,4310
+Middle,Female,СНГ,Data Scientist,1420,2380,4520
+Middle,Female,СНГ,Frontend Developer,1450,2610,3770
+Middle,Female,СНГ,Analyst,1290,2690,3910
+Middle,Female,СНГ,Manager,1190,2690,4350
+Middle,Female,Германия,Software Engineer,2460,5370,7990
+Middle,Female,Германия,Backend Developer,2030,4510,9240
+Middle,Female,Германия,DevOps,2760,4710,7510
+Middle,Female,Германия,Data Scientist,3060,4970,10060
+Middle,Female,Германия,Frontend Developer,3000,4880,9640
+Middle,Female,Германия,Analyst,2690,5180,8950
+Middle,Female,Германия,Manager,2110,5030,8130
+Middle,Female,Индия,Software Engineer,590,1580,3370
+Middle,Female,Индия,Backend Developer,780,1440,3000
+Middle,Female,Индия,DevOps,630,1600,3060
+Middle,Female,Индия,Data Scientist,740,1570,2980
+Middle,Female,Индия,Frontend Developer,700,1420,2510
+Middle,Female,Индия,Analyst,670,1400,2720
+Middle,Female,Индия,Manager,640,1620,2730
+Middle,Female,США,Software Engineer,4620,8310,14320
+Middle,Female,США,Backend Developer,4330,8200,15450
+Middle,Female,США,DevOps,5100,8700,14990
+Middle,Female,США,Data Scientist,4520,9160,16740
+Middle,Female,США,Frontend Developer,5770,9210,15380
+Middle,Female,США,Analyst,6190,8570,13080
+Middle,Female,США,Manager,5240,8490,14800
+Middle,Male,СНГ,Software Engineer,1520,2580,3880
+Middle,Male,СНГ,Backend Developer,1100,2280,4350
+Middle,Male,СНГ,DevOps,1060,2640,4420
+Middle,Male,СНГ,Data Scientist,1410,2460,4160
+Middle,Male,СНГ,Frontend Developer,1550,2530,4560
+Middle,Male,СНГ,Analyst,1340,2600,4230
+Middle,Male,СНГ,Manager,1350,2470,4960
+Middle,Male,Германия,Software Engineer,3050,5420,8140
+Middle,Male,Германия,Backend Developer,2340,5330,7510
+Middle,Male,Германия,DevOps,2790,4720,9340
+Middle,Male,Германия,Data Scientist,2040,4540,8660
+Middle,Male,Германия,Frontend Developer,2950,4500,7800
+Middle,Male,Германия,Analyst,2480,4980,8650
+Middle,Male,Германия,Manager,2950,4660,9550
+Middle,Male,Индия,Software Engineer,530,1390,2820
+Middle,Male,Индия,Backend Developer,610,1640,3310
+Middle,Male,Индия,DevOps,520,1450,2700
+Middle,Male,Индия,Data Scientist,750,1630,2650
+Middle,Male,Индия,Frontend Developer,510,1590,2880
+Middle,Male,Индия,Analyst,760,1470,2630
+Middle,Male,Индия,Manager,780,1410,2630
+Middle,Male,США,Software Engineer,5720,8860,14410
+Middle,Male,США,Backend Developer,4060,9670,15810
+Middle,Male,США,DevOps,4760,8420,14710
+Middle,Male,США,Data Scientist,5260,9190,12530
+Middle,Male,США,Frontend Developer,4780,8160,14720
+Middle,Male,США,Analyst,4690,8480,15000
+Middle,Male,США,Manager,5430,9700,15930
+Senior,Female,СНГ,Software Engineer,2360,4150,8370
+Senior,Female,СНГ,Backend Developer,2300,4190,6870
+Senior,Female,СНГ,DevOps,2300,3730,6710
+Senior,Female,СНГ,Data Scientist,1630,3760,7410
+Senior,Female,СНГ,Frontend Developer,1860,3830,7780
+Senior,Female,СНГ,Analyst,2290,3710,6460
+Senior,Female,СНГ,Manager,2030,3930,8150
+Senior,Female,Германия,Software Engineer,3300,6310,12180
+Senior,Female,Германия,Backend Developer,4110,6790,12290
+Senior,Female,Германия,DevOps,3100,6400,13100
+Senior,Female,Германия,Data Scientist,3620,7300,10370
+Senior,Female,Германия,Frontend Developer,3740,7400,11030
+Senior,Female,Германия,Analyst,3050,7520,13080
+Senior,Female,Германия,Manager,3780,7500,10070
+Senior,Female,Индия,Software Engineer,1270,2370,4460
+Senior,Female,Индия,Backend Developer,1130,2420,4570
+Senior,Female,Индия,DevOps,1590,2280,4920
+Senior,Female,Индия,Data Scientist,1570,2630,3850
+Senior,Female,Индия,Frontend Developer,1240,2370,4660
+Senior,Female,Индия,Analyst,1570,2400,3890
+Senior,Female,Индия,Manager,1470,2660,4870
+Senior,Female,США,Software Engineer,8370,14150,26000
+Senior,Female,США,Backend Developer,8950,13190,23020
+Senior,Female,США,DevOps,7080,15320,23360
+Senior,Female,США,Data Scientist,9140,12820,26060
+Senior,Female,США,Frontend Developer,7260,14030,20070
+Senior,Female,США,Analyst,6450,13930,25090
+Senior,Female,США,Manager,8100,14940,27130
+Senior,Male,СНГ,Software Engineer,1880,3880,7990
+Senior,Male,СНГ,Backend Developer,1680,4060,7930
+Senior,Male,СНГ,DevOps,1710,4340,8290
+Senior,Male,СНГ,Data Scientist,1550,3780,7910
+Senior,Male,СНГ,Frontend Developer,1950,3790,7570
+Senior,Male,СНГ,Analyst,1510,4320,8490
+Senior,Male,СНГ,Manager,2360,3830,8190
+Senior,Male,Германия,Software Engineer,4450,7680,12730
+Senior,Male,Германия,Backend Developer,3470,6830,12010
+Senior,Male,Германия,DevOps,3640,6850,10580
+Senior,Male,Германия,Data Scientist,4680,7350,10320
+Senior,Male,Германия,Frontend Developer,3520,7450,11410
+Senior,Male,Германия,Analyst,4640,7360,11340
+Senior,Male,Германия,Manager,4570,7140,11470
+Senior,Male,Индия,Software Engineer,1220,2280,4170
+Senior,Male,Индия,Backend Developer,1410,2580,3820
+Senior,Male,Индия,DevOps,1300,2350,4730
+Senior,Male,Индия,Data Scientist,1140,2620,4210
+Senior,Male,Индия,Frontend Developer,1550,2530,4900
+Senior,Male,Индия,Analyst,1370,2470,4940
+Senior,Male,Индия,Manager,1440,2290,4280
+Senior,Male,США,Software Engineer,6470,14770,20510
+Senior,Male,США,Backend Developer,9080,13640,22320
+Senior,Male,США,DevOps,6150,13030,25870
+Senior,Male,США,Data Scientist,8890,14450,22420
+Senior,Male,США,Frontend Developer,6270,12880,24770
+Senior,Male,США,Analyst,9260,15180,21530
+Senior,Male,США,Manager,8300,12990,21810

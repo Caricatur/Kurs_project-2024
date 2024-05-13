@@ -2,6 +2,8 @@ import { Layout } from 'antd'
 import React from 'react'
 import {NavLink, useParams} from "react-router-dom";
 
+
+
 const Region = ({value, changeName}) => { 
   const { id } = useParams();
   // const ChangingId = (id) => {
@@ -11,15 +13,15 @@ const Region = ({value, changeName}) => {
 
 
 
-return ({value} == 'СЩА') ? (<Layout>
+return ({value} == 'СНГ') ? (<Layout>
       <div>Current region: {id}</div>
       {/* <div>{id} </div> */}
-      <div>RE</div>
+      <div>REjcslzkclszk</div>
 
 
   </Layout>)
 
-  : (<div>Current region: {id}</div>)
+  : (<div>Current region: {id}{value}</div>)
 }
 
 export default Region

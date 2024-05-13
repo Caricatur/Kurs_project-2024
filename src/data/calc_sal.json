@@ -1,0 +1,3458 @@
+[
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "Software Engineer",
+    "min_salary": 440,
+    "median_salary": 616,
+    "max_salary": 792
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "Backend Developer",
+    "min_salary": 400,
+    "median_salary": 560,
+    "max_salary": 864
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "DevOps",
+    "min_salary": 400,
+    "median_salary": 644,
+    "max_salary": 1008
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "Data Scientist",
+    "min_salary": 440,
+    "median_salary": 616,
+    "max_salary": 900
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "Frontend Developer",
+    "min_salary": 440,
+    "median_salary": 616,
+    "max_salary": 792
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "Analyst",
+    "min_salary": 400,
+    "median_salary": 560,
+    "max_salary": 720
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "Manager",
+    "min_salary": 400,
+    "median_salary": 560,
+    "max_salary": 720
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "Mobile Developer",
+    "min_salary": 460,
+    "median_salary": 644,
+    "max_salary": 828
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "Recruiter",
+    "min_salary": 320,
+    "median_salary": 448,
+    "max_salary": 576
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "Designer (UI/UX)",
+    "min_salary": 360,
+    "median_salary": 504,
+    "max_salary": 648
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "Tester",
+    "min_salary": 340,
+    "median_salary": 476,
+    "max_salary": 612
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "Security engineer",
+    "min_salary": 380,
+    "median_salary": 532,
+    "max_salary": 684
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "Software Engineer",
+    "min_salary": 1320,
+    "median_salary": 1760,
+    "max_salary": 2200
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "Backend Developer",
+    "min_salary": 1200,
+    "median_salary": 1600,
+    "max_salary": 2400
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "DevOps",
+    "min_salary": 1200,
+    "median_salary": 1840,
+    "max_salary": 2800
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "Data Scientist",
+    "min_salary": 1320,
+    "median_salary": 1760,
+    "max_salary": 2500
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "Frontend Developer",
+    "min_salary": 1320,
+    "median_salary": 1760,
+    "max_salary": 2200
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "Analyst",
+    "min_salary": 1200,
+    "median_salary": 1600,
+    "max_salary": 2000
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "Manager",
+    "min_salary": 1200,
+    "median_salary": 1600,
+    "max_salary": 2000
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "Mobile Developer",
+    "min_salary": 1380,
+    "median_salary": 1840,
+    "max_salary": 2300
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "Recruiter",
+    "min_salary": 960,
+    "median_salary": 1280,
+    "max_salary": 1600
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "Designer (UI/UX)",
+    "min_salary": 1080,
+    "median_salary": 1440,
+    "max_salary": 1800
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "Tester",
+    "min_salary": 1020,
+    "median_salary": 1360,
+    "max_salary": 1700
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "Security engineer",
+    "min_salary": 1140,
+    "median_salary": 1520,
+    "max_salary": 1900
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "Software Engineer",
+    "min_salary": 176,
+    "median_salary": 264,
+    "max_salary": 352
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "Backend Developer",
+    "min_salary": 160,
+    "median_salary": 240,
+    "max_salary": 384
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "DevOps",
+    "min_salary": 160,
+    "median_salary": 276,
+    "max_salary": 448
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "Data Scientist",
+    "min_salary": 176,
+    "median_salary": 264,
+    "max_salary": 400
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "Frontend Developer",
+    "min_salary": 176,
+    "median_salary": 264,
+    "max_salary": 352
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "Analyst",
+    "min_salary": 160,
+    "median_salary": 240,
+    "max_salary": 320
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "Manager",
+    "min_salary": 160,
+    "median_salary": 240,
+    "max_salary": 320
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "Mobile Developer",
+    "min_salary": 184,
+    "median_salary": 276,
+    "max_salary": 368
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "Recruiter",
+    "min_salary": 128,
+    "median_salary": 192,
+    "max_salary": 256
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "Designer (UI/UX)",
+    "min_salary": 144,
+    "median_salary": 216,
+    "max_salary": 288
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "Tester",
+    "min_salary": 136,
+    "median_salary": 204,
+    "max_salary": 272
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "Security engineer",
+    "min_salary": 152,
+    "median_salary": 228,
+    "max_salary": 304
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "США",
+    "profession": "Software Engineer",
+    "min_salary": 2640,
+    "median_salary": 3520,
+    "max_salary": 4400
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "США",
+    "profession": "Backend Developer",
+    "min_salary": 2400,
+    "median_salary": 3200,
+    "max_salary": 4800
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "США",
+    "profession": "DevOps",
+    "min_salary": 2400,
+    "median_salary": 3680,
+    "max_salary": 5600
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "США",
+    "profession": "Data Scientist",
+    "min_salary": 2640,
+    "median_salary": 3520,
+    "max_salary": 5000
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "США",
+    "profession": "Frontend Developer",
+    "min_salary": 2640,
+    "median_salary": 3520,
+    "max_salary": 4400
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "США",
+    "profession": "Analyst",
+    "min_salary": 2400,
+    "median_salary": 3200,
+    "max_salary": 4000
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "США",
+    "profession": "Manager",
+    "min_salary": 2400,
+    "median_salary": 3200,
+    "max_salary": 4000
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "США",
+    "profession": "Mobile Developer",
+    "min_salary": 2760,
+    "median_salary": 3680,
+    "max_salary": 4600
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "США",
+    "profession": "Recruiter",
+    "min_salary": 1920,
+    "median_salary": 2560,
+    "max_salary": 3200
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "США",
+    "profession": "Designer (UI/UX)",
+    "min_salary": 2160,
+    "median_salary": 2880,
+    "max_salary": 3600
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "США",
+    "profession": "Tester",
+    "min_salary": 2040,
+    "median_salary": 2720,
+    "max_salary": 3400
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "США",
+    "profession": "Security engineer",
+    "min_salary": 2280,
+    "median_salary": 3040,
+    "max_salary": 3800
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "Software Engineer",
+    "min_salary": 440,
+    "median_salary": 616,
+    "max_salary": 792
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "Backend Developer",
+    "min_salary": 400,
+    "median_salary": 560,
+    "max_salary": 864
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "DevOps",
+    "min_salary": 400,
+    "median_salary": 644,
+    "max_salary": 1008
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "Data Scientist",
+    "min_salary": 440,
+    "median_salary": 616,
+    "max_salary": 900
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "Frontend Developer",
+    "min_salary": 440,
+    "median_salary": 616,
+    "max_salary": 792
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "Analyst",
+    "min_salary": 400,
+    "median_salary": 560,
+    "max_salary": 720
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "Manager",
+    "min_salary": 400,
+    "median_salary": 560,
+    "max_salary": 720
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "Mobile Developer",
+    "min_salary": 460,
+    "median_salary": 644,
+    "max_salary": 828
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "Recruiter",
+    "min_salary": 320,
+    "median_salary": 448,
+    "max_salary": 576
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "Designer (UI/UX)",
+    "min_salary": 360,
+    "median_salary": 504,
+    "max_salary": 648
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "Tester",
+    "min_salary": 340,
+    "median_salary": 476,
+    "max_salary": 612
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "Security engineer",
+    "min_salary": 380,
+    "median_salary": 532,
+    "max_salary": 684
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "Software Engineer",
+    "min_salary": 1320,
+    "median_salary": 1760,
+    "max_salary": 2200
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "Backend Developer",
+    "min_salary": 1200,
+    "median_salary": 1600,
+    "max_salary": 2400
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "DevOps",
+    "min_salary": 1200,
+    "median_salary": 1840,
+    "max_salary": 2800
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "Data Scientist",
+    "min_salary": 1320,
+    "median_salary": 1760,
+    "max_salary": 2500
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "Frontend Developer",
+    "min_salary": 1320,
+    "median_salary": 1760,
+    "max_salary": 2200
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "Analyst",
+    "min_salary": 1200,
+    "median_salary": 1600,
+    "max_salary": 2000
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "Manager",
+    "min_salary": 1200,
+    "median_salary": 1600,
+    "max_salary": 2000
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "Mobile Developer",
+    "min_salary": 1380,
+    "median_salary": 1840,
+    "max_salary": 2300
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "Recruiter",
+    "min_salary": 960,
+    "median_salary": 1280,
+    "max_salary": 1600
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "Designer (UI/UX)",
+    "min_salary": 1080,
+    "median_salary": 1440,
+    "max_salary": 1800
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "Tester",
+    "min_salary": 1020,
+    "median_salary": 1360,
+    "max_salary": 1700
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "Security engineer",
+    "min_salary": 1140,
+    "median_salary": 1520,
+    "max_salary": 1900
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "Software Engineer",
+    "min_salary": 176,
+    "median_salary": 264,
+    "max_salary": 352
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "Backend Developer",
+    "min_salary": 160,
+    "median_salary": 240,
+    "max_salary": 384
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "DevOps",
+    "min_salary": 160,
+    "median_salary": 276,
+    "max_salary": 448
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "Data Scientist",
+    "min_salary": 176,
+    "median_salary": 264,
+    "max_salary": 400
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "Frontend Developer",
+    "min_salary": 176,
+    "median_salary": 264,
+    "max_salary": 352
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "Analyst",
+    "min_salary": 160,
+    "median_salary": 240,
+    "max_salary": 320
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "Manager",
+    "min_salary": 160,
+    "median_salary": 240,
+    "max_salary": 320
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "Mobile Developer",
+    "min_salary": 184,
+    "median_salary": 276,
+    "max_salary": 368
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "Recruiter",
+    "min_salary": 128,
+    "median_salary": 192,
+    "max_salary": 256
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "Designer (UI/UX)",
+    "min_salary": 144,
+    "median_salary": 216,
+    "max_salary": 288
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "Tester",
+    "min_salary": 136,
+    "median_salary": 204,
+    "max_salary": 272
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "Security engineer",
+    "min_salary": 152,
+    "median_salary": 228,
+    "max_salary": 304
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "США",
+    "profession": "Software Engineer",
+    "min_salary": 2640,
+    "median_salary": 3520,
+    "max_salary": 4400
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "США",
+    "profession": "Backend Developer",
+    "min_salary": 2400,
+    "median_salary": 3200,
+    "max_salary": 4800
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "США",
+    "profession": "DevOps",
+    "min_salary": 2400,
+    "median_salary": 3680,
+    "max_salary": 5600
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "США",
+    "profession": "Data Scientist",
+    "min_salary": 2640,
+    "median_salary": 3520,
+    "max_salary": 5000
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "США",
+    "profession": "Frontend Developer",
+    "min_salary": 2640,
+    "median_salary": 3520,
+    "max_salary": 4400
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "США",
+    "profession": "Analyst",
+    "min_salary": 2400,
+    "median_salary": 3200,
+    "max_salary": 4000
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "США",
+    "profession": "Manager",
+    "min_salary": 2400,
+    "median_salary": 3200,
+    "max_salary": 4000
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "США",
+    "profession": "Mobile Developer",
+    "min_salary": 2760,
+    "median_salary": 3680,
+    "max_salary": 4600
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "США",
+    "profession": "Recruiter",
+    "min_salary": 1920,
+    "median_salary": 2560,
+    "max_salary": 3200
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "США",
+    "profession": "Designer (UI/UX)",
+    "min_salary": 2160,
+    "median_salary": 2880,
+    "max_salary": 3600
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "США",
+    "profession": "Tester",
+    "min_salary": 2040,
+    "median_salary": 2720,
+    "max_salary": 3400
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "США",
+    "profession": "Security engineer",
+    "min_salary": 2280,
+    "median_salary": 3040,
+    "max_salary": 3800
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "Software Engineer",
+    "min_salary": 880,
+    "median_salary": 1144,
+    "max_salary": 1408
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "Backend Developer",
+    "min_salary": 800,
+    "median_salary": 1040,
+    "max_salary": 1536
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "DevOps",
+    "min_salary": 800,
+    "median_salary": 1196,
+    "max_salary": 1792
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "Data Scientist",
+    "min_salary": 880,
+    "median_salary": 1144,
+    "max_salary": 1600
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "Frontend Developer",
+    "min_salary": 880,
+    "median_salary": 1144,
+    "max_salary": 1408
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "Analyst",
+    "min_salary": 800,
+    "median_salary": 1040,
+    "max_salary": 1280
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "Manager",
+    "min_salary": 800,
+    "median_salary": 1040,
+    "max_salary": 1280
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "Mobile Developer",
+    "min_salary": 920,
+    "median_salary": 1196,
+    "max_salary": 1472
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "Recruiter",
+    "min_salary": 640,
+    "median_salary": 832,
+    "max_salary": 1024
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "Designer (UI/UX)",
+    "min_salary": 720,
+    "median_salary": 936,
+    "max_salary": 1152
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "Tester",
+    "min_salary": 680,
+    "median_salary": 884,
+    "max_salary": 1088
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "Security engineer",
+    "min_salary": 760,
+    "median_salary": 988,
+    "max_salary": 1216
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "Software Engineer",
+    "min_salary": 2200,
+    "median_salary": 2640,
+    "max_salary": 3080
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "Backend Developer",
+    "min_salary": 2000,
+    "median_salary": 2400,
+    "max_salary": 3360
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "DevOps",
+    "min_salary": 2000,
+    "median_salary": 2760,
+    "max_salary": 3920
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "Data Scientist",
+    "min_salary": 2200,
+    "median_salary": 2640,
+    "max_salary": 3500
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "Frontend Developer",
+    "min_salary": 2200,
+    "median_salary": 2640,
+    "max_salary": 3080
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "Analyst",
+    "min_salary": 2000,
+    "median_salary": 2400,
+    "max_salary": 2800
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "Manager",
+    "min_salary": 2000,
+    "median_salary": 2400,
+    "max_salary": 2800
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "Mobile Developer",
+    "min_salary": 2300,
+    "median_salary": 2760,
+    "max_salary": 3220
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "Recruiter",
+    "min_salary": 1600,
+    "median_salary": 1920,
+    "max_salary": 2240
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "Designer (UI/UX)",
+    "min_salary": 1800,
+    "median_salary": 2160,
+    "max_salary": 2520
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "Tester",
+    "min_salary": 1700,
+    "median_salary": 2040,
+    "max_salary": 2380
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "Security engineer",
+    "min_salary": 1900,
+    "median_salary": 2280,
+    "max_salary": 2660
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "Software Engineer",
+    "min_salary": 440,
+    "median_salary": 616,
+    "max_salary": 792
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "Backend Developer",
+    "min_salary": 400,
+    "median_salary": 560,
+    "max_salary": 864
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "DevOps",
+    "min_salary": 400,
+    "median_salary": 644,
+    "max_salary": 1008
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "Data Scientist",
+    "min_salary": 440,
+    "median_salary": 616,
+    "max_salary": 900
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "Frontend Developer",
+    "min_salary": 440,
+    "median_salary": 616,
+    "max_salary": 792
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "Analyst",
+    "min_salary": 400,
+    "median_salary": 560,
+    "max_salary": 720
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "Manager",
+    "min_salary": 400,
+    "median_salary": 560,
+    "max_salary": 720
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "Mobile Developer",
+    "min_salary": 460,
+    "median_salary": 644,
+    "max_salary": 828
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "Recruiter",
+    "min_salary": 320,
+    "median_salary": 448,
+    "max_salary": 576
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "Designer (UI/UX)",
+    "min_salary": 360,
+    "median_salary": 504,
+    "max_salary": 648
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "Tester",
+    "min_salary": 340,
+    "median_salary": 476,
+    "max_salary": 612
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "Security engineer",
+    "min_salary": 380,
+    "median_salary": 532,
+    "max_salary": 684
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "США",
+    "profession": "Software Engineer",
+    "min_salary": 4400,
+    "median_salary": 5280,
+    "max_salary": 6160
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "США",
+    "profession": "Backend Developer",
+    "min_salary": 4000,
+    "median_salary": 4800,
+    "max_salary": 6720
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "США",
+    "profession": "DevOps",
+    "min_salary": 4000,
+    "median_salary": 5520,
+    "max_salary": 7840
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "США",
+    "profession": "Data Scientist",
+    "min_salary": 4400,
+    "median_salary": 5280,
+    "max_salary": 7000
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "США",
+    "profession": "Frontend Developer",
+    "min_salary": 4400,
+    "median_salary": 5280,
+    "max_salary": 6160
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "США",
+    "profession": "Analyst",
+    "min_salary": 4000,
+    "median_salary": 4800,
+    "max_salary": 5600
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "США",
+    "profession": "Manager",
+    "min_salary": 4000,
+    "median_salary": 4800,
+    "max_salary": 5600
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "США",
+    "profession": "Mobile Developer",
+    "min_salary": 4600,
+    "median_salary": 5520,
+    "max_salary": 6440
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "США",
+    "profession": "Recruiter",
+    "min_salary": 3200,
+    "median_salary": 3840,
+    "max_salary": 4480
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "США",
+    "profession": "Designer (UI/UX)",
+    "min_salary": 3600,
+    "median_salary": 4320,
+    "max_salary": 5040
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "США",
+    "profession": "Tester",
+    "min_salary": 3400,
+    "median_salary": 4080,
+    "max_salary": 4760
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "США",
+    "profession": "Security engineer",
+    "min_salary": 3800,
+    "median_salary": 4560,
+    "max_salary": 5320
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "Software Engineer",
+    "min_salary": 880,
+    "median_salary": 1144,
+    "max_salary": 1408
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "Backend Developer",
+    "min_salary": 800,
+    "median_salary": 1040,
+    "max_salary": 1536
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "DevOps",
+    "min_salary": 800,
+    "median_salary": 1196,
+    "max_salary": 1792
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "Data Scientist",
+    "min_salary": 880,
+    "median_salary": 1144,
+    "max_salary": 1600
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "Frontend Developer",
+    "min_salary": 880,
+    "median_salary": 1144,
+    "max_salary": 1408
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "Analyst",
+    "min_salary": 800,
+    "median_salary": 1040,
+    "max_salary": 1280
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "Manager",
+    "min_salary": 800,
+    "median_salary": 1040,
+    "max_salary": 1280
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "Mobile Developer",
+    "min_salary": 920,
+    "median_salary": 1196,
+    "max_salary": 1472
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "Recruiter",
+    "min_salary": 640,
+    "median_salary": 832,
+    "max_salary": 1024
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "Designer (UI/UX)",
+    "min_salary": 720,
+    "median_salary": 936,
+    "max_salary": 1152
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "Tester",
+    "min_salary": 680,
+    "median_salary": 884,
+    "max_salary": 1088
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "Security engineer",
+    "min_salary": 760,
+    "median_salary": 988,
+    "max_salary": 1216
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "Software Engineer",
+    "min_salary": 2200,
+    "median_salary": 2640,
+    "max_salary": 3080
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "Backend Developer",
+    "min_salary": 2000,
+    "median_salary": 2400,
+    "max_salary": 3360
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "DevOps",
+    "min_salary": 2000,
+    "median_salary": 2760,
+    "max_salary": 3920
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "Data Scientist",
+    "min_salary": 2200,
+    "median_salary": 2640,
+    "max_salary": 3500
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "Frontend Developer",
+    "min_salary": 2200,
+    "median_salary": 2640,
+    "max_salary": 3080
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "Analyst",
+    "min_salary": 2000,
+    "median_salary": 2400,
+    "max_salary": 2800
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "Manager",
+    "min_salary": 2000,
+    "median_salary": 2400,
+    "max_salary": 2800
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "Mobile Developer",
+    "min_salary": 2300,
+    "median_salary": 2760,
+    "max_salary": 3220
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "Recruiter",
+    "min_salary": 1600,
+    "median_salary": 1920,
+    "max_salary": 2240
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "Designer (UI/UX)",
+    "min_salary": 1800,
+    "median_salary": 2160,
+    "max_salary": 2520
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "Tester",
+    "min_salary": 1700,
+    "median_salary": 2040,
+    "max_salary": 2380
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "Security engineer",
+    "min_salary": 1900,
+    "median_salary": 2280,
+    "max_salary": 2660
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "Software Engineer",
+    "min_salary": 440,
+    "median_salary": 616,
+    "max_salary": 792
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "Backend Developer",
+    "min_salary": 400,
+    "median_salary": 560,
+    "max_salary": 864
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "DevOps",
+    "min_salary": 400,
+    "median_salary": 644,
+    "max_salary": 1008
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "Data Scientist",
+    "min_salary": 440,
+    "median_salary": 616,
+    "max_salary": 900
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "Frontend Developer",
+    "min_salary": 440,
+    "median_salary": 616,
+    "max_salary": 792
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "Analyst",
+    "min_salary": 400,
+    "median_salary": 560,
+    "max_salary": 720
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "Manager",
+    "min_salary": 400,
+    "median_salary": 560,
+    "max_salary": 720
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "Mobile Developer",
+    "min_salary": 460,
+    "median_salary": 644,
+    "max_salary": 828
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "Recruiter",
+    "min_salary": 320,
+    "median_salary": 448,
+    "max_salary": 576
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "Designer (UI/UX)",
+    "min_salary": 360,
+    "median_salary": 504,
+    "max_salary": 648
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "Tester",
+    "min_salary": 340,
+    "median_salary": 476,
+    "max_salary": 612
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "Security engineer",
+    "min_salary": 380,
+    "median_salary": 532,
+    "max_salary": 684
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "США",
+    "profession": "Software Engineer",
+    "min_salary": 4400,
+    "median_salary": 5280,
+    "max_salary": 6160
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "США",
+    "profession": "Backend Developer",
+    "min_salary": 4000,
+    "median_salary": 4800,
+    "max_salary": 6720
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "США",
+    "profession": "DevOps",
+    "min_salary": 4000,
+    "median_salary": 5520,
+    "max_salary": 7840
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "США",
+    "profession": "Data Scientist",
+    "min_salary": 4400,
+    "median_salary": 5280,
+    "max_salary": 7000
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "США",
+    "profession": "Frontend Developer",
+    "min_salary": 4400,
+    "median_salary": 5280,
+    "max_salary": 6160
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "США",
+    "profession": "Analyst",
+    "min_salary": 4000,
+    "median_salary": 4800,
+    "max_salary": 5600
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "США",
+    "profession": "Manager",
+    "min_salary": 4000,
+    "median_salary": 4800,
+    "max_salary": 5600
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "США",
+    "profession": "Mobile Developer",
+    "min_salary": 4600,
+    "median_salary": 5520,
+    "max_salary": 6440
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "США",
+    "profession": "Recruiter",
+    "min_salary": 3200,
+    "median_salary": 3840,
+    "max_salary": 4480
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "США",
+    "profession": "Designer (UI/UX)",
+    "min_salary": 3600,
+    "median_salary": 4320,
+    "max_salary": 5040
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "США",
+    "profession": "Tester",
+    "min_salary": 3400,
+    "median_salary": 4080,
+    "max_salary": 4760
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "США",
+    "profession": "Security engineer",
+    "min_salary": 3800,
+    "median_salary": 4560,
+    "max_salary": 5320
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "Software Engineer",
+    "min_salary": 1760,
+    "median_salary": 2200,
+    "max_salary": 2640
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "Backend Developer",
+    "min_salary": 1600,
+    "median_salary": 2000,
+    "max_salary": 2880
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "DevOps",
+    "min_salary": 1600,
+    "median_salary": 2300,
+    "max_salary": 3360
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "Data Scientist",
+    "min_salary": 1760,
+    "median_salary": 2200,
+    "max_salary": 3000
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "Frontend Developer",
+    "min_salary": 1760,
+    "median_salary": 2200,
+    "max_salary": 2640
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "Analyst",
+    "min_salary": 1600,
+    "median_salary": 2000,
+    "max_salary": 2400
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "Manager",
+    "min_salary": 1600,
+    "median_salary": 2000,
+    "max_salary": 2400
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "Mobile Developer",
+    "min_salary": 1840,
+    "median_salary": 2300,
+    "max_salary": 2760
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "Recruiter",
+    "min_salary": 1280,
+    "median_salary": 1600,
+    "max_salary": 1920
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "Designer (UI/UX)",
+    "min_salary": 1440,
+    "median_salary": 1800,
+    "max_salary": 2160
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "Tester",
+    "min_salary": 1360,
+    "median_salary": 1700,
+    "max_salary": 2040
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "Security engineer",
+    "min_salary": 1520,
+    "median_salary": 1900,
+    "max_salary": 2280
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "Software Engineer",
+    "min_salary": 3520,
+    "median_salary": 4400,
+    "max_salary": 5280
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "Backend Developer",
+    "min_salary": 3200,
+    "median_salary": 4000,
+    "max_salary": 5760
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "DevOps",
+    "min_salary": 3200,
+    "median_salary": 4600,
+    "max_salary": 6720
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "Data Scientist",
+    "min_salary": 3520,
+    "median_salary": 4400,
+    "max_salary": 6000
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "Frontend Developer",
+    "min_salary": 3520,
+    "median_salary": 4400,
+    "max_salary": 5280
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "Analyst",
+    "min_salary": 3200,
+    "median_salary": 4000,
+    "max_salary": 4800
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "Manager",
+    "min_salary": 3200,
+    "median_salary": 4000,
+    "max_salary": 4800
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "Mobile Developer",
+    "min_salary": 3680,
+    "median_salary": 4600,
+    "max_salary": 5520
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "Recruiter",
+    "min_salary": 2560,
+    "median_salary": 3200,
+    "max_salary": 3840
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "Designer (UI/UX)",
+    "min_salary": 2880,
+    "median_salary": 3600,
+    "max_salary": 4320
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "Tester",
+    "min_salary": 2720,
+    "median_salary": 3400,
+    "max_salary": 4080
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "Security engineer",
+    "min_salary": 3040,
+    "median_salary": 3800,
+    "max_salary": 4560
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "Software Engineer",
+    "min_salary": 880,
+    "median_salary": 1320,
+    "max_salary": 1760
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "Backend Developer",
+    "min_salary": 800,
+    "median_salary": 1200,
+    "max_salary": 1920
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "DevOps",
+    "min_salary": 800,
+    "median_salary": 1380,
+    "max_salary": 2240
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "Data Scientist",
+    "min_salary": 880,
+    "median_salary": 1320,
+    "max_salary": 2000
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "Frontend Developer",
+    "min_salary": 880,
+    "median_salary": 1320,
+    "max_salary": 1760
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "Analyst",
+    "min_salary": 800,
+    "median_salary": 1200,
+    "max_salary": 1600
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "Manager",
+    "min_salary": 800,
+    "median_salary": 1200,
+    "max_salary": 1600
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "Mobile Developer",
+    "min_salary": 920,
+    "median_salary": 1380,
+    "max_salary": 1840
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "Recruiter",
+    "min_salary": 640,
+    "median_salary": 960,
+    "max_salary": 1280
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "Designer (UI/UX)",
+    "min_salary": 720,
+    "median_salary": 1080,
+    "max_salary": 1440
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "Tester",
+    "min_salary": 680,
+    "median_salary": 1020,
+    "max_salary": 1360
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "Security engineer",
+    "min_salary": 760,
+    "median_salary": 1140,
+    "max_salary": 1520
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "США",
+    "profession": "Software Engineer",
+    "min_salary": 7040,
+    "median_salary": 7920,
+    "max_salary": 8800
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "США",
+    "profession": "Backend Developer",
+    "min_salary": 6400,
+    "median_salary": 7200,
+    "max_salary": 9600
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "США",
+    "profession": "DevOps",
+    "min_salary": 6400,
+    "median_salary": 8280,
+    "max_salary": 11200
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "США",
+    "profession": "Data Scientist",
+    "min_salary": 7040,
+    "median_salary": 7920,
+    "max_salary": 10000
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "США",
+    "profession": "Frontend Developer",
+    "min_salary": 7040,
+    "median_salary": 7920,
+    "max_salary": 8800
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "США",
+    "profession": "Analyst",
+    "min_salary": 6400,
+    "median_salary": 7200,
+    "max_salary": 8000
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "США",
+    "profession": "Manager",
+    "min_salary": 6400,
+    "median_salary": 7200,
+    "max_salary": 8000
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "США",
+    "profession": "Mobile Developer",
+    "min_salary": 7360,
+    "median_salary": 8280,
+    "max_salary": 9200
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "США",
+    "profession": "Recruiter",
+    "min_salary": 5120,
+    "median_salary": 5760,
+    "max_salary": 6400
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "США",
+    "profession": "Designer (UI/UX)",
+    "min_salary": 5760,
+    "median_salary": 6480,
+    "max_salary": 7200
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "США",
+    "profession": "Tester",
+    "min_salary": 5440,
+    "median_salary": 6120,
+    "max_salary": 6800
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "США",
+    "profession": "Security engineer",
+    "min_salary": 6080,
+    "median_salary": 6840,
+    "max_salary": 7600
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "Software Engineer",
+    "min_salary": 1760,
+    "median_salary": 2200,
+    "max_salary": 2640
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "Backend Developer",
+    "min_salary": 1600,
+    "median_salary": 2000,
+    "max_salary": 2880
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "DevOps",
+    "min_salary": 1600,
+    "median_salary": 2300,
+    "max_salary": 3360
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "Data Scientist",
+    "min_salary": 1760,
+    "median_salary": 2200,
+    "max_salary": 3000
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "Frontend Developer",
+    "min_salary": 1760,
+    "median_salary": 2200,
+    "max_salary": 2640
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "Analyst",
+    "min_salary": 1600,
+    "median_salary": 2000,
+    "max_salary": 2400
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "Manager",
+    "min_salary": 1600,
+    "median_salary": 2000,
+    "max_salary": 2400
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "Mobile Developer",
+    "min_salary": 1840,
+    "median_salary": 2300,
+    "max_salary": 2760
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "Recruiter",
+    "min_salary": 1280,
+    "median_salary": 1600,
+    "max_salary": 1920
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "Designer (UI/UX)",
+    "min_salary": 1440,
+    "median_salary": 1800,
+    "max_salary": 2160
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "Tester",
+    "min_salary": 1360,
+    "median_salary": 1700,
+    "max_salary": 2040
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "Security engineer",
+    "min_salary": 1520,
+    "median_salary": 1900,
+    "max_salary": 2280
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "Software Engineer",
+    "min_salary": 3520,
+    "median_salary": 4400,
+    "max_salary": 5280
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "Backend Developer",
+    "min_salary": 3200,
+    "median_salary": 4000,
+    "max_salary": 5760
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "DevOps",
+    "min_salary": 3200,
+    "median_salary": 4600,
+    "max_salary": 6720
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "Data Scientist",
+    "min_salary": 3520,
+    "median_salary": 4400,
+    "max_salary": 6000
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "Frontend Developer",
+    "min_salary": 3520,
+    "median_salary": 4400,
+    "max_salary": 5280
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "Analyst",
+    "min_salary": 3200,
+    "median_salary": 4000,
+    "max_salary": 4800
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "Manager",
+    "min_salary": 3200,
+    "median_salary": 4000,
+    "max_salary": 4800
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "Mobile Developer",
+    "min_salary": 3680,
+    "median_salary": 4600,
+    "max_salary": 5520
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "Recruiter",
+    "min_salary": 2560,
+    "median_salary": 3200,
+    "max_salary": 3840
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "Designer (UI/UX)",
+    "min_salary": 2880,
+    "median_salary": 3600,
+    "max_salary": 4320
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "Tester",
+    "min_salary": 2720,
+    "median_salary": 3400,
+    "max_salary": 4080
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "Security engineer",
+    "min_salary": 3040,
+    "median_salary": 3800,
+    "max_salary": 4560
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "Software Engineer",
+    "min_salary": 880,
+    "median_salary": 1320,
+    "max_salary": 1760
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "Backend Developer",
+    "min_salary": 800,
+    "median_salary": 1200,
+    "max_salary": 1920
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "DevOps",
+    "min_salary": 800,
+    "median_salary": 1380,
+    "max_salary": 2240
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "Data Scientist",
+    "min_salary": 880,
+    "median_salary": 1320,
+    "max_salary": 2000
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "Frontend Developer",
+    "min_salary": 880,
+    "median_salary": 1320,
+    "max_salary": 1760
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "Analyst",
+    "min_salary": 800,
+    "median_salary": 1200,
+    "max_salary": 1600
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "Manager",
+    "min_salary": 800,
+    "median_salary": 1200,
+    "max_salary": 1600
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "Mobile Developer",
+    "min_salary": 920,
+    "median_salary": 1380,
+    "max_salary": 1840
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "Recruiter",
+    "min_salary": 640,
+    "median_salary": 960,
+    "max_salary": 1280
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "Designer (UI/UX)",
+    "min_salary": 720,
+    "median_salary": 1080,
+    "max_salary": 1440
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "Tester",
+    "min_salary": 680,
+    "median_salary": 1020,
+    "max_salary": 1360
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "Security engineer",
+    "min_salary": 760,
+    "median_salary": 1140,
+    "max_salary": 1520
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "США",
+    "profession": "Software Engineer",
+    "min_salary": 7040,
+    "median_salary": 7920,
+    "max_salary": 8800
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "США",
+    "profession": "Backend Developer",
+    "min_salary": 6400,
+    "median_salary": 7200,
+    "max_salary": 9600
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "США",
+    "profession": "DevOps",
+    "min_salary": 6400,
+    "median_salary": 8280,
+    "max_salary": 11200
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "США",
+    "profession": "Data Scientist",
+    "min_salary": 7040,
+    "median_salary": 7920,
+    "max_salary": 10000
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "США",
+    "profession": "Frontend Developer",
+    "min_salary": 7040,
+    "median_salary": 7920,
+    "max_salary": 8800
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "США",
+    "profession": "Analyst",
+    "min_salary": 6400,
+    "median_salary": 7200,
+    "max_salary": 8000
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "США",
+    "profession": "Manager",
+    "min_salary": 6400,
+    "median_salary": 7200,
+    "max_salary": 8000
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "США",
+    "profession": "Mobile Developer",
+    "min_salary": 7360,
+    "median_salary": 8280,
+    "max_salary": 9200
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "США",
+    "profession": "Recruiter",
+    "min_salary": 5120,
+    "median_salary": 5760,
+    "max_salary": 6400
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "США",
+    "profession": "Designer (UI/UX)",
+    "min_salary": 5760,
+    "median_salary": 6480,
+    "max_salary": 7200
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "США",
+    "profession": "Tester",
+    "min_salary": 5440,
+    "median_salary": 6120,
+    "max_salary": 6800
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "США",
+    "profession": "Security engineer",
+    "min_salary": 6080,
+    "median_salary": 6840,
+    "max_salary": 7600
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "Software Engineer",
+    "min_salary": 2640,
+    "median_salary": 3520,
+    "max_salary": 4400
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "Backend Developer",
+    "min_salary": 2400,
+    "median_salary": 3200,
+    "max_salary": 4800
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "DevOps",
+    "min_salary": 2400,
+    "median_salary": 3680,
+    "max_salary": 5600
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "Data Scientist",
+    "min_salary": 2640,
+    "median_salary": 3520,
+    "max_salary": 5000
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "Frontend Developer",
+    "min_salary": 2640,
+    "median_salary": 3520,
+    "max_salary": 4400
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "Analyst",
+    "min_salary": 2400,
+    "median_salary": 3200,
+    "max_salary": 4000
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "Manager",
+    "min_salary": 2400,
+    "median_salary": 3200,
+    "max_salary": 4000
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "Mobile Developer",
+    "min_salary": 2760,
+    "median_salary": 3680,
+    "max_salary": 4600
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "Recruiter",
+    "min_salary": 1920,
+    "median_salary": 2560,
+    "max_salary": 3200
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "Designer (UI/UX)",
+    "min_salary": 2160,
+    "median_salary": 2880,
+    "max_salary": 3600
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "Tester",
+    "min_salary": 2040,
+    "median_salary": 2720,
+    "max_salary": 3400
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "Security engineer",
+    "min_salary": 2280,
+    "median_salary": 3040,
+    "max_salary": 3800
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "Software Engineer",
+    "min_salary": 5280,
+    "median_salary": 6160,
+    "max_salary": 7040
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "Backend Developer",
+    "min_salary": 4800,
+    "median_salary": 5600,
+    "max_salary": 7680
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "DevOps",
+    "min_salary": 4800,
+    "median_salary": 6440,
+    "max_salary": 8960
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "Data Scientist",
+    "min_salary": 5280,
+    "median_salary": 6160,
+    "max_salary": 8000
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "Frontend Developer",
+    "min_salary": 5280,
+    "median_salary": 6160,
+    "max_salary": 7040
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "Analyst",
+    "min_salary": 4800,
+    "median_salary": 5600,
+    "max_salary": 6400
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "Manager",
+    "min_salary": 4800,
+    "median_salary": 5600,
+    "max_salary": 6400
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "Mobile Developer",
+    "min_salary": 5520,
+    "median_salary": 6440,
+    "max_salary": 7360
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "Recruiter",
+    "min_salary": 3840,
+    "median_salary": 4480,
+    "max_salary": 5120
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "Designer (UI/UX)",
+    "min_salary": 4320,
+    "median_salary": 5040,
+    "max_salary": 5760
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "Tester",
+    "min_salary": 4080,
+    "median_salary": 4760,
+    "max_salary": 5440
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "Security engineer",
+    "min_salary": 4560,
+    "median_salary": 5320,
+    "max_salary": 6080
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "Software Engineer",
+    "min_salary": 1760,
+    "median_salary": 2200,
+    "max_salary": 2640
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "Backend Developer",
+    "min_salary": 1600,
+    "median_salary": 2000,
+    "max_salary": 2880
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "DevOps",
+    "min_salary": 1600,
+    "median_salary": 2300,
+    "max_salary": 3360
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "Data Scientist",
+    "min_salary": 1760,
+    "median_salary": 2200,
+    "max_salary": 3000
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "Frontend Developer",
+    "min_salary": 1760,
+    "median_salary": 2200,
+    "max_salary": 2640
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "Analyst",
+    "min_salary": 1600,
+    "median_salary": 2000,
+    "max_salary": 2400
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "Manager",
+    "min_salary": 1600,
+    "median_salary": 2000,
+    "max_salary": 2400
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "Mobile Developer",
+    "min_salary": 1840,
+    "median_salary": 2300,
+    "max_salary": 2760
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "Recruiter",
+    "min_salary": 1280,
+    "median_salary": 1600,
+    "max_salary": 1920
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "Designer (UI/UX)",
+    "min_salary": 1440,
+    "median_salary": 1800,
+    "max_salary": 2160
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "Tester",
+    "min_salary": 1360,
+    "median_salary": 1700,
+    "max_salary": 2040
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "Security engineer",
+    "min_salary": 1520,
+    "median_salary": 1900,
+    "max_salary": 2280
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "США",
+    "profession": "Software Engineer",
+    "min_salary": 10560,
+    "median_salary": 12320,
+    "max_salary": 14080
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "США",
+    "profession": "Backend Developer",
+    "min_salary": 9600,
+    "median_salary": 11200,
+    "max_salary": 15360
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "США",
+    "profession": "DevOps",
+    "min_salary": 9600,
+    "median_salary": 12880,
+    "max_salary": 17920
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "США",
+    "profession": "Data Scientist",
+    "min_salary": 10560,
+    "median_salary": 12320,
+    "max_salary": 16000
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "США",
+    "profession": "Frontend Developer",
+    "min_salary": 10560,
+    "median_salary": 12320,
+    "max_salary": 14080
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "США",
+    "profession": "Analyst",
+    "min_salary": 9600,
+    "median_salary": 11200,
+    "max_salary": 12800
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "США",
+    "profession": "Manager",
+    "min_salary": 9600,
+    "median_salary": 11200,
+    "max_salary": 12800
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "США",
+    "profession": "Mobile Developer",
+    "min_salary": 11040,
+    "median_salary": 12880,
+    "max_salary": 14720
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "США",
+    "profession": "Recruiter",
+    "min_salary": 7680,
+    "median_salary": 8960,
+    "max_salary": 10240
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "США",
+    "profession": "Designer (UI/UX)",
+    "min_salary": 8640,
+    "median_salary": 10080,
+    "max_salary": 11520
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "США",
+    "profession": "Tester",
+    "min_salary": 8160,
+    "median_salary": 9520,
+    "max_salary": 10880
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "США",
+    "profession": "Security engineer",
+    "min_salary": 9120,
+    "median_salary": 10640,
+    "max_salary": 12160
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "Software Engineer",
+    "min_salary": 2640,
+    "median_salary": 3520,
+    "max_salary": 4400
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "Backend Developer",
+    "min_salary": 2400,
+    "median_salary": 3200,
+    "max_salary": 4800
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "DevOps",
+    "min_salary": 2400,
+    "median_salary": 3680,
+    "max_salary": 5600
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "Data Scientist",
+    "min_salary": 2640,
+    "median_salary": 3520,
+    "max_salary": 5000
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "Frontend Developer",
+    "min_salary": 2640,
+    "median_salary": 3520,
+    "max_salary": 4400
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "Analyst",
+    "min_salary": 2400,
+    "median_salary": 3200,
+    "max_salary": 4000
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "Manager",
+    "min_salary": 2400,
+    "median_salary": 3200,
+    "max_salary": 4000
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "Mobile Developer",
+    "min_salary": 2760,
+    "median_salary": 3680,
+    "max_salary": 4600
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "Recruiter",
+    "min_salary": 1920,
+    "median_salary": 2560,
+    "max_salary": 3200
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "Designer (UI/UX)",
+    "min_salary": 2160,
+    "median_salary": 2880,
+    "max_salary": 3600
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "Tester",
+    "min_salary": 2040,
+    "median_salary": 2720,
+    "max_salary": 3400
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "Security engineer",
+    "min_salary": 2280,
+    "median_salary": 3040,
+    "max_salary": 3800
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "Software Engineer",
+    "min_salary": 5280,
+    "median_salary": 6160,
+    "max_salary": 7040
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "Backend Developer",
+    "min_salary": 4800,
+    "median_salary": 5600,
+    "max_salary": 7680
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "DevOps",
+    "min_salary": 4800,
+    "median_salary": 6440,
+    "max_salary": 8960
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "Data Scientist",
+    "min_salary": 5280,
+    "median_salary": 6160,
+    "max_salary": 8000
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "Frontend Developer",
+    "min_salary": 5280,
+    "median_salary": 6160,
+    "max_salary": 7040
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "Analyst",
+    "min_salary": 4800,
+    "median_salary": 5600,
+    "max_salary": 6400
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "Manager",
+    "min_salary": 4800,
+    "median_salary": 5600,
+    "max_salary": 6400
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "Mobile Developer",
+    "min_salary": 5520,
+    "median_salary": 6440,
+    "max_salary": 7360
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "Recruiter",
+    "min_salary": 3840,
+    "median_salary": 4480,
+    "max_salary": 5120
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "Designer (UI/UX)",
+    "min_salary": 4320,
+    "median_salary": 5040,
+    "max_salary": 5760
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "Tester",
+    "min_salary": 4080,
+    "median_salary": 4760,
+    "max_salary": 5440
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "Security engineer",
+    "min_salary": 4560,
+    "median_salary": 5320,
+    "max_salary": 6080
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "Software Engineer",
+    "min_salary": 1760,
+    "median_salary": 2200,
+    "max_salary": 2640
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "Backend Developer",
+    "min_salary": 1600,
+    "median_salary": 2000,
+    "max_salary": 2880
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "DevOps",
+    "min_salary": 1600,
+    "median_salary": 2300,
+    "max_salary": 3360
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "Data Scientist",
+    "min_salary": 1760,
+    "median_salary": 2200,
+    "max_salary": 3000
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "Frontend Developer",
+    "min_salary": 1760,
+    "median_salary": 2200,
+    "max_salary": 2640
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "Analyst",
+    "min_salary": 1600,
+    "median_salary": 2000,
+    "max_salary": 2400
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "Manager",
+    "min_salary": 1600,
+    "median_salary": 2000,
+    "max_salary": 2400
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "Mobile Developer",
+    "min_salary": 1840,
+    "median_salary": 2300,
+    "max_salary": 2760
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "Recruiter",
+    "min_salary": 1280,
+    "median_salary": 1600,
+    "max_salary": 1920
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "Designer (UI/UX)",
+    "min_salary": 1440,
+    "median_salary": 1800,
+    "max_salary": 2160
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "Tester",
+    "min_salary": 1360,
+    "median_salary": 1700,
+    "max_salary": 2040
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "Security engineer",
+    "min_salary": 1520,
+    "median_salary": 1900,
+    "max_salary": 2280
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "США",
+    "profession": "Software Engineer",
+    "min_salary": 10560,
+    "median_salary": 12320,
+    "max_salary": 14080
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "США",
+    "profession": "Backend Developer",
+    "min_salary": 9600,
+    "median_salary": 11200,
+    "max_salary": 15360
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "США",
+    "profession": "DevOps",
+    "min_salary": 9600,
+    "median_salary": 12880,
+    "max_salary": 17920
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "США",
+    "profession": "Data Scientist",
+    "min_salary": 10560,
+    "median_salary": 12320,
+    "max_salary": 16000
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "США",
+    "profession": "Frontend Developer",
+    "min_salary": 10560,
+    "median_salary": 12320,
+    "max_salary": 14080
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "США",
+    "profession": "Analyst",
+    "min_salary": 9600,
+    "median_salary": 11200,
+    "max_salary": 12800
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "США",
+    "profession": "Manager",
+    "min_salary": 9600,
+    "median_salary": 11200,
+    "max_salary": 12800
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "США",
+    "profession": "Mobile Developer",
+    "min_salary": 11040,
+    "median_salary": 12880,
+    "max_salary": 14720
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "США",
+    "profession": "Recruiter",
+    "min_salary": 7680,
+    "median_salary": 8960,
+    "max_salary": 10240
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "США",
+    "profession": "Designer (UI/UX)",
+    "min_salary": 8640,
+    "median_salary": 10080,
+    "max_salary": 11520
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "США",
+    "profession": "Tester",
+    "min_salary": 8160,
+    "median_salary": 9520,
+    "max_salary": 10880
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "США",
+    "profession": "Security engineer",
+    "min_salary": 9120,
+    "median_salary": 10640,
+    "max_salary": 12160
+  }
+]

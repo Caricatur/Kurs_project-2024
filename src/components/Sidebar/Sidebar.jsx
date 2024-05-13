@@ -1,3 +1,5 @@
+// 
+
 import React, {useState} from 'react'
 
 import {NavLink} from "react-router-dom";
@@ -16,7 +18,7 @@ const Sidebar = ({value, onClickCategory}) => {
                 <Text>
                     <ul className={styles.decorationStyle}>
                         {categories_list.map((name) => (
-                            <li
+                            <li style={{listStyleType: 'none'}}
                                 class={styles.linkStyle}
                                 key={name}
                                 onClick={() => onClickCategory(name)}

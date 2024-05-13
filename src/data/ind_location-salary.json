@@ -1,0 +1,42 @@
+[
+    {
+      "Location": "Bangalore",
+      "Salary": 735344.7
+    },
+    {
+      "Location": "Chennai",
+      "Salary": 584559.7
+    },
+    {
+      "Location": "Hyderabad",
+      "Salary": 679099.2
+    },
+    {
+      "Location": "Jaipur",
+      "Salary": 629135.8
+    },
+    {
+      "Location": "Kerala",
+      "Salary": 553577.5
+    },
+    {
+      "Location": "Kolkata",
+      "Salary": 710925.6
+    },
+    {
+      "Location": "Madhya Pradesh",
+      "Salary": 677641.9
+    },
+    {
+      "Location": "Mumbai",
+      "Salary": 961180.4
+    },
+    {
+      "Location": "New Delhi",
+      "Salary": 658756.7
+    },
+    {
+      "Location": "Pune",
+      "Salary": 690476.3
+    }
+  ]

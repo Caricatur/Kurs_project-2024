@@ -22,12 +22,23 @@
     overflow:hidden;
     /* background:  antiquewhite !important;;  */
     /* fill: var(--dark-sea)  */
+    @media (max-width: 740px) {
+        font-size: 20px;
+        
+    }
 }
 
 img {
     padding-top: 5px;
     padding-left: 10px;
     filter: url(#filter_B);
+    @media (max-width: 740px) {
+        /* padding-left: -10px; */
+        margin-left: -40px;
+        
+    }
+
+
   }
 img:hover {
     filter: url(#filter_G);
@@ -50,6 +61,13 @@ img:hover {
     font-optical-sizing: auto;
     /* font-weight: <weight>; */
     font-style: normal;
+
+    @media (max-width: 740px) {
+        font-size: medium; 
+    }
+    @media (max-width: 500px) {
+        font-size: 0px; 
+    }
     
 }
 
@@ -59,6 +77,9 @@ img:hover {
     text-align: center;
     font-family: "Raleway", sans-serif;
     font-optical-sizing: auto;
+    @media (max-width: 740px) {
+        font-size: small; 
+    }
 
 }
 
@@ -80,6 +101,10 @@ img:hover {
     color: rgb(0, 0, 0);
     /* background-color: rgb(3, 14, 24); */
     pointer-events: auto;
+    @media (max-width: 740px) {
+        font-size: small; 
+        overflow: visible;
+    }
 
 
     

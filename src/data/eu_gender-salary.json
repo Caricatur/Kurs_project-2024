@@ -1,0 +1,332 @@
+[
+    {
+      "Age": 20,
+      "Gender": "Male",
+      "salary": 240000
+    },
+    {
+      "Age": 21,
+      "Gender": "Female",
+      "salary": 67532
+    },
+    {
+      "Age": 22,
+      "Gender": "Female",
+      "salary": 154000
+    },
+    {
+      "Age": 22,
+      "Gender": "Male",
+      "salary": 105666
+    },
+    {
+      "Age": 23,
+      "Gender": "Female",
+      "salary": 36000
+    },
+    {
+      "Age": 23,
+      "Gender": "Male",
+      "salary": 180057
+    },
+    {
+      "Age": 24,
+      "Gender": "Female",
+      "salary": 157840
+    },
+    {
+      "Age": 24,
+      "Gender": "Male",
+      "salary": 203068
+    },
+    {
+      "Age": 25,
+      "Gender": "Female",
+      "salary": 144938
+    },
+    {
+      "Age": 25,
+      "Gender": "Male",
+      "salary": 185501
+    },
+    {
+      "Age": 26,
+      "Gender": "Female",
+      "salary": 147120
+    },
+    {
+      "Age": 26,
+      "Gender": "Male",
+      "salary": 184453
+    },
+    {
+      "Age": 27,
+      "Gender": "Female",
+      "salary": 175704
+    },
+    {
+      "Age": 27,
+      "Gender": "Male",
+      "salary": 194885
+    },
+    {
+      "Age": 28,
+      "Gender": "Female",
+      "salary": 169191
+    },
+    {
+      "Age": 28,
+      "Gender": "Male",
+      "salary": 195468
+    },
+    {
+      "Age": 29,
+      "Gender": "Female",
+      "salary": 149939
+    },
+    {
+      "Age": 29,
+      "Gender": "Male",
+      "salary": 210357
+    },
+    {
+      "Age": 30,
+      "Gender": "Female",
+      "salary": 176920
+    },
+    {
+      "Age": 30,
+      "Gender": "Male",
+      "salary": 217047
+    },
+    {
+      "Age": 31,
+      "Gender": "Female",
+      "salary": 178480
+    },
+    {
+      "Age": 31,
+      "Gender": "Male",
+      "salary": 221765
+    },
+    {
+      "Age": 32,
+      "Gender": "Female",
+      "salary": 177261
+    },
+    {
+      "Age": 32,
+      "Gender": "Male",
+      "salary": 231522
+    },
+    {
+      "Age": 33,
+      "Gender": "Female",
+      "salary": 187342
+    },
+    {
+      "Age": 33,
+      "Gender": "Male",
+      "salary": 228041
+    },
+    {
+      "Age": 34,
+      "Gender": "Female",
+      "salary": 184985
+    },
+    {
+      "Age": 34,
+      "Gender": "Male",
+      "salary": 229177
+    },
+    {
+      "Age": 35,
+      "Gender": "Female",
+      "salary": 186916
+    },
+    {
+      "Age": 35,
+      "Gender": "Male",
+      "salary": 225463
+    },
+    {
+      "Age": 36,
+      "Gender": "Female",
+      "salary": 195375
+    },
+    {
+      "Age": 36,
+      "Gender": "Male",
+      "salary": 227000
+    },
+    {
+      "Age": 37,
+      "Gender": "Female",
+      "salary": 189000
+    },
+    {
+      "Age": 37,
+      "Gender": "Male",
+      "salary": 221119
+    },
+    {
+      "Age": 38,
+      "Gender": "Female",
+      "salary": 196150
+    },
+    {
+      "Age": 38,
+      "Gender": "Male",
+      "salary": 232786
+    },
+    {
+      "Age": 39,
+      "Gender": "Female",
+      "salary": 195375
+    },
+    {
+      "Age": 39,
+      "Gender": "Male",
+      "salary": 254318
+    },
+    {
+      "Age": 40,
+      "Gender": "Female",
+      "salary": 191100
+    },
+    {
+      "Age": 40,
+      "Gender": "Male",
+      "salary": 243875
+    },
+    {
+      "Age": 41,
+      "Gender": "Female",
+      "salary": 145500
+    },
+    {
+      "Age": 41,
+      "Gender": "Male",
+      "salary": 330933
+    },
+    {
+      "Age": 42,
+      "Gender": "Female",
+      "salary": 112525
+    },
+    {
+      "Age": 42,
+      "Gender": "Male",
+      "salary": 314388
+    },
+    {
+      "Age": 43,
+      "Gender": "Female",
+      "salary": 32000
+    },
+    {
+      "Age": 43,
+      "Gender": "Male",
+      "salary": 228744
+    },
+    {
+      "Age": 44,
+      "Gender": "Female",
+      "salary": 113000
+    },
+    {
+      "Age": 44,
+      "Gender": "Male",
+      "salary": 224678
+    },
+    {
+      "Age": 45,
+      "Gender": "Female",
+      "salary": 234250
+    },
+    {
+      "Age": 45,
+      "Gender": "Male",
+      "salary": 227607
+    },
+    {
+      "Age": 46,
+      "Gender": "Male",
+      "salary": 135687
+    },
+    {
+      "Age": 47,
+      "Gender": "Male",
+      "salary": 205216
+    },
+    {
+      "Age": 48,
+      "Gender": "Female",
+      "salary": 75000
+    },
+    {
+      "Age": 48,
+      "Gender": "Male",
+      "salary": 226183
+    },
+    {
+      "Age": 49,
+      "Gender": "Male",
+      "salary": 307000
+    },
+    {
+      "Age": 50,
+      "Gender": "Female",
+      "salary": 96000
+    },
+    {
+      "Age": 50,
+      "Gender": "Male",
+      "salary": 210800
+    },
+    {
+      "Age": 51,
+      "Gender": "Male",
+      "salary": 138000
+    },
+    {
+      "Age": 52,
+      "Gender": "Male",
+      "salary": 208300
+    },
+    {
+      "Age": 53,
+      "Gender": "Male",
+      "salary": 50000
+    },
+    {
+      "Age": 54,
+      "Gender": "Male",
+      "salary": 153000
+    },
+    {
+      "Age": 56,
+      "Gender": "Male",
+      "salary": 92500
+    },
+    {
+      "Age": 59,
+      "Gender": "Male",
+      "salary": 69000
+    },
+    {
+      "Age": 60,
+      "Gender": "Female",
+      "salary": 58000
+    },
+    {
+      "Age": 65,
+      "Gender": "Male",
+      "salary": 55000
+    },
+    {
+      "Age": 66,
+      "Gender": "Male",
+      "salary": 70000
+    }
+  ]

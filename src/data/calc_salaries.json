@@ -1,0 +1,2018 @@
+[
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "Software Engineer",
+    "min_salary": 310,
+    "median_salary": 630,
+    "max_salary": 1160
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "Backend Developer",
+    "min_salary": 350,
+    "median_salary": 690,
+    "max_salary": 1440
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "DevOps",
+    "min_salary": 280,
+    "median_salary": 630,
+    "max_salary": 1280
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "Data Scientist",
+    "min_salary": 260,
+    "median_salary": 630,
+    "max_salary": 1150
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "Frontend Developer",
+    "min_salary": 270,
+    "median_salary": 650,
+    "max_salary": 1450
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "Analyst",
+    "min_salary": 390,
+    "median_salary": 690,
+    "max_salary": 1360
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "Manager",
+    "min_salary": 380,
+    "median_salary": 670,
+    "max_salary": 1460
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "Software Engineer",
+    "min_salary": 1120,
+    "median_salary": 1890,
+    "max_salary": 3790
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "Backend Developer",
+    "min_salary": 960,
+    "median_salary": 1850,
+    "max_salary": 3150
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "DevOps",
+    "min_salary": 900,
+    "median_salary": 2000,
+    "max_salary": 4060
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "Data Scientist",
+    "min_salary": 840,
+    "median_salary": 2190,
+    "max_salary": 4220
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "Frontend Developer",
+    "min_salary": 1030,
+    "median_salary": 2050,
+    "max_salary": 3840
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "Analyst",
+    "min_salary": 1140,
+    "median_salary": 1960,
+    "max_salary": 3590
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "Manager",
+    "min_salary": 970,
+    "median_salary": 2100,
+    "max_salary": 4210
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "Software Engineer",
+    "min_salary": 110,
+    "median_salary": 270,
+    "max_salary": 550
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "Backend Developer",
+    "min_salary": 100,
+    "median_salary": 280,
+    "max_salary": 530
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "DevOps",
+    "min_salary": 150,
+    "median_salary": 300,
+    "max_salary": 570
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "Data Scientist",
+    "min_salary": 100,
+    "median_salary": 300,
+    "max_salary": 510
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "Frontend Developer",
+    "min_salary": 130,
+    "median_salary": 290,
+    "max_salary": 650
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "Analyst",
+    "min_salary": 150,
+    "median_salary": 320,
+    "max_salary": 510
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "Manager",
+    "min_salary": 110,
+    "median_salary": 270,
+    "max_salary": 570
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "США",
+    "profession": "Software Engineer",
+    "min_salary": 1600,
+    "median_salary": 3830,
+    "max_salary": 6510
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "США",
+    "profession": "Backend Developer",
+    "min_salary": 1650,
+    "median_salary": 3780,
+    "max_salary": 7030
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "США",
+    "profession": "DevOps",
+    "min_salary": 1580,
+    "median_salary": 3920,
+    "max_salary": 7380
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "США",
+    "profession": "Data Scientist",
+    "min_salary": 2130,
+    "median_salary": 4200,
+    "max_salary": 8080
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "США",
+    "profession": "Frontend Developer",
+    "min_salary": 1670,
+    "median_salary": 4100,
+    "max_salary": 7790
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "США",
+    "profession": "Analyst",
+    "min_salary": 1880,
+    "median_salary": 3830,
+    "max_salary": 6690
+  },
+  {
+    "grade": "Intern",
+    "sex": "Female",
+    "country": "США",
+    "profession": "Manager",
+    "min_salary": 2260,
+    "median_salary": 3710,
+    "max_salary": 7400
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "Software Engineer",
+    "min_salary": 360,
+    "median_salary": 720,
+    "max_salary": 1360
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "Backend Developer",
+    "min_salary": 260,
+    "median_salary": 730,
+    "max_salary": 1290
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "DevOps",
+    "min_salary": 390,
+    "median_salary": 650,
+    "max_salary": 1320
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "Data Scientist",
+    "min_salary": 280,
+    "median_salary": 670,
+    "max_salary": 1180
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "Frontend Developer",
+    "min_salary": 270,
+    "median_salary": 710,
+    "max_salary": 1390
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "Analyst",
+    "min_salary": 280,
+    "median_salary": 710,
+    "max_salary": 1210
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "Manager",
+    "min_salary": 310,
+    "median_salary": 720,
+    "max_salary": 1190
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "Software Engineer",
+    "min_salary": 1040,
+    "median_salary": 2020,
+    "max_salary": 3440
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "Backend Developer",
+    "min_salary": 820,
+    "median_salary": 1940,
+    "max_salary": 3390
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "DevOps",
+    "min_salary": 1040,
+    "median_salary": 2030,
+    "max_salary": 3320
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "Data Scientist",
+    "min_salary": 970,
+    "median_salary": 2150,
+    "max_salary": 3970
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "Frontend Developer",
+    "min_salary": 820,
+    "median_salary": 2150,
+    "max_salary": 4140
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "Analyst",
+    "min_salary": 870,
+    "median_salary": 2170,
+    "max_salary": 3280
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "Manager",
+    "min_salary": 770,
+    "median_salary": 1960,
+    "max_salary": 3160
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "Software Engineer",
+    "min_salary": 110,
+    "median_salary": 320,
+    "max_salary": 570
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "Backend Developer",
+    "min_salary": 150,
+    "median_salary": 290,
+    "max_salary": 650
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "DevOps",
+    "min_salary": 140,
+    "median_salary": 320,
+    "max_salary": 640
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "Data Scientist",
+    "min_salary": 150,
+    "median_salary": 310,
+    "max_salary": 550
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "Frontend Developer",
+    "min_salary": 140,
+    "median_salary": 280,
+    "max_salary": 580
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "Analyst",
+    "min_salary": 140,
+    "median_salary": 320,
+    "max_salary": 600
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "Manager",
+    "min_salary": 110,
+    "median_salary": 320,
+    "max_salary": 520
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "США",
+    "profession": "Software Engineer",
+    "min_salary": 2070,
+    "median_salary": 4200,
+    "max_salary": 7160
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "США",
+    "profession": "Backend Developer",
+    "min_salary": 2210,
+    "median_salary": 3920,
+    "max_salary": 7220
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "США",
+    "profession": "DevOps",
+    "min_salary": 2290,
+    "median_salary": 3620,
+    "max_salary": 8400
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "США",
+    "profession": "Data Scientist",
+    "min_salary": 1570,
+    "median_salary": 3820,
+    "max_salary": 7900
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "США",
+    "profession": "Frontend Developer",
+    "min_salary": 1620,
+    "median_salary": 4270,
+    "max_salary": 8370
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "США",
+    "profession": "Analyst",
+    "min_salary": 1510,
+    "median_salary": 3990,
+    "max_salary": 8440
+  },
+  {
+    "grade": "Intern",
+    "sex": "Male",
+    "country": "США",
+    "profession": "Manager",
+    "min_salary": 1840,
+    "median_salary": 4370,
+    "max_salary": 7310
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "Software Engineer",
+    "min_salary": 620,
+    "median_salary": 1200,
+    "max_salary": 2390
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "Backend Developer",
+    "min_salary": 640,
+    "median_salary": 1270,
+    "max_salary": 2600
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "DevOps",
+    "min_salary": 760,
+    "median_salary": 1400,
+    "max_salary": 2530
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "Data Scientist",
+    "min_salary": 700,
+    "median_salary": 1370,
+    "max_salary": 2690
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "Frontend Developer",
+    "min_salary": 630,
+    "median_salary": 1190,
+    "max_salary": 2080
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "Analyst",
+    "min_salary": 540,
+    "median_salary": 1290,
+    "max_salary": 2540
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "Manager",
+    "min_salary": 610,
+    "median_salary": 1250,
+    "max_salary": 2560
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "Software Engineer",
+    "min_salary": 1860,
+    "median_salary": 3170,
+    "max_salary": 4710
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "Backend Developer",
+    "min_salary": 1590,
+    "median_salary": 3040,
+    "max_salary": 5360
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "DevOps",
+    "min_salary": 1280,
+    "median_salary": 3110,
+    "max_salary": 4400
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "Data Scientist",
+    "min_salary": 1920,
+    "median_salary": 2790,
+    "max_salary": 4820
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "Frontend Developer",
+    "min_salary": 1480,
+    "median_salary": 2970,
+    "max_salary": 5890
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "Analyst",
+    "min_salary": 1600,
+    "median_salary": 2740,
+    "max_salary": 5180
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "Manager",
+    "min_salary": 1490,
+    "median_salary": 3190,
+    "max_salary": 5400
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "Software Engineer",
+    "min_salary": 300,
+    "median_salary": 660,
+    "max_salary": 1510
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "Backend Developer",
+    "min_salary": 300,
+    "median_salary": 690,
+    "max_salary": 1260
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "DevOps",
+    "min_salary": 290,
+    "median_salary": 660,
+    "max_salary": 1130
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "Data Scientist",
+    "min_salary": 320,
+    "median_salary": 720,
+    "max_salary": 1520
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "Frontend Developer",
+    "min_salary": 370,
+    "median_salary": 690,
+    "max_salary": 1150
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "Analyst",
+    "min_salary": 250,
+    "median_salary": 730,
+    "max_salary": 1220
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "Manager",
+    "min_salary": 360,
+    "median_salary": 670,
+    "max_salary": 1230
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "США",
+    "profession": "Software Engineer",
+    "min_salary": 3760,
+    "median_salary": 6100,
+    "max_salary": 11110
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "США",
+    "profession": "Backend Developer",
+    "min_salary": 3880,
+    "median_salary": 5430,
+    "max_salary": 8990
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "США",
+    "profession": "DevOps",
+    "min_salary": 2620,
+    "median_salary": 5650,
+    "max_salary": 9110
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "США",
+    "profession": "Data Scientist",
+    "min_salary": 3930,
+    "median_salary": 6040,
+    "max_salary": 11740
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "США",
+    "profession": "Frontend Developer",
+    "min_salary": 3460,
+    "median_salary": 5540,
+    "max_salary": 11090
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "США",
+    "profession": "Analyst",
+    "min_salary": 3490,
+    "median_salary": 6290,
+    "max_salary": 8930
+  },
+  {
+    "grade": "Junior",
+    "sex": "Female",
+    "country": "США",
+    "profession": "Manager",
+    "min_salary": 2890,
+    "median_salary": 6500,
+    "max_salary": 10920
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "Software Engineer",
+    "min_salary": 750,
+    "median_salary": 1210,
+    "max_salary": 2710
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "Backend Developer",
+    "min_salary": 610,
+    "median_salary": 1220,
+    "max_salary": 2460
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "DevOps",
+    "min_salary": 780,
+    "median_salary": 1410,
+    "max_salary": 2200
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "Data Scientist",
+    "min_salary": 660,
+    "median_salary": 1380,
+    "max_salary": 2100
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "Frontend Developer",
+    "min_salary": 790,
+    "median_salary": 1240,
+    "max_salary": 2710
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "Analyst",
+    "min_salary": 600,
+    "median_salary": 1270,
+    "max_salary": 2110
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "Manager",
+    "min_salary": 540,
+    "median_salary": 1320,
+    "max_salary": 2370
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "Software Engineer",
+    "min_salary": 1840,
+    "median_salary": 2790,
+    "max_salary": 5110
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "Backend Developer",
+    "min_salary": 1970,
+    "median_salary": 3290,
+    "max_salary": 5190
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "DevOps",
+    "min_salary": 1280,
+    "median_salary": 2950,
+    "max_salary": 5710
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "Data Scientist",
+    "min_salary": 1400,
+    "median_salary": 2980,
+    "max_salary": 4880
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "Frontend Developer",
+    "min_salary": 1810,
+    "median_salary": 2860,
+    "max_salary": 5870
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "Analyst",
+    "min_salary": 1610,
+    "median_salary": 3230,
+    "max_salary": 5080
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "Manager",
+    "min_salary": 1860,
+    "median_salary": 2830,
+    "max_salary": 4840
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "Software Engineer",
+    "min_salary": 370,
+    "median_salary": 650,
+    "max_salary": 1370
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "Backend Developer",
+    "min_salary": 290,
+    "median_salary": 650,
+    "max_salary": 1420
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "DevOps",
+    "min_salary": 350,
+    "median_salary": 630,
+    "max_salary": 1370
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "Data Scientist",
+    "min_salary": 330,
+    "median_salary": 660,
+    "max_salary": 1520
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "Frontend Developer",
+    "min_salary": 270,
+    "median_salary": 740,
+    "max_salary": 1330
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "Analyst",
+    "min_salary": 390,
+    "median_salary": 690,
+    "max_salary": 1390
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "Manager",
+    "min_salary": 280,
+    "median_salary": 760,
+    "max_salary": 1270
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "США",
+    "profession": "Software Engineer",
+    "min_salary": 3150,
+    "median_salary": 6130,
+    "max_salary": 10920
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "США",
+    "profession": "Backend Developer",
+    "min_salary": 3270,
+    "median_salary": 6420,
+    "max_salary": 9690
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "США",
+    "profession": "DevOps",
+    "min_salary": 3640,
+    "median_salary": 6430,
+    "max_salary": 10910
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "США",
+    "profession": "Data Scientist",
+    "min_salary": 3320,
+    "median_salary": 5980,
+    "max_salary": 9780
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "США",
+    "profession": "Frontend Developer",
+    "min_salary": 2570,
+    "median_salary": 5790,
+    "max_salary": 11520
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "США",
+    "profession": "Analyst",
+    "min_salary": 2760,
+    "median_salary": 6360,
+    "max_salary": 10000
+  },
+  {
+    "grade": "Junior",
+    "sex": "Male",
+    "country": "США",
+    "profession": "Manager",
+    "min_salary": 3640,
+    "median_salary": 6380,
+    "max_salary": 9170
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "Software Engineer",
+    "min_salary": 1400,
+    "median_salary": 2400,
+    "max_salary": 4920
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "Backend Developer",
+    "min_salary": 1110,
+    "median_salary": 2630,
+    "max_salary": 3750
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "DevOps",
+    "min_salary": 1090,
+    "median_salary": 2520,
+    "max_salary": 4310
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "Data Scientist",
+    "min_salary": 1420,
+    "median_salary": 2380,
+    "max_salary": 4520
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "Frontend Developer",
+    "min_salary": 1450,
+    "median_salary": 2610,
+    "max_salary": 3770
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "Analyst",
+    "min_salary": 1290,
+    "median_salary": 2690,
+    "max_salary": 3910
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "Manager",
+    "min_salary": 1190,
+    "median_salary": 2690,
+    "max_salary": 4350
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "Software Engineer",
+    "min_salary": 2460,
+    "median_salary": 5370,
+    "max_salary": 7990
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "Backend Developer",
+    "min_salary": 2030,
+    "median_salary": 4510,
+    "max_salary": 9240
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "DevOps",
+    "min_salary": 2760,
+    "median_salary": 4710,
+    "max_salary": 7510
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "Data Scientist",
+    "min_salary": 3060,
+    "median_salary": 4970,
+    "max_salary": 10060
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "Frontend Developer",
+    "min_salary": 3000,
+    "median_salary": 4880,
+    "max_salary": 9640
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "Analyst",
+    "min_salary": 2690,
+    "median_salary": 5180,
+    "max_salary": 8950
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "Manager",
+    "min_salary": 2110,
+    "median_salary": 5030,
+    "max_salary": 8130
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "Software Engineer",
+    "min_salary": 590,
+    "median_salary": 1580,
+    "max_salary": 3370
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "Backend Developer",
+    "min_salary": 780,
+    "median_salary": 1440,
+    "max_salary": 3000
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "DevOps",
+    "min_salary": 630,
+    "median_salary": 1600,
+    "max_salary": 3060
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "Data Scientist",
+    "min_salary": 740,
+    "median_salary": 1570,
+    "max_salary": 2980
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "Frontend Developer",
+    "min_salary": 700,
+    "median_salary": 1420,
+    "max_salary": 2510
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "Analyst",
+    "min_salary": 670,
+    "median_salary": 1400,
+    "max_salary": 2720
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "Manager",
+    "min_salary": 640,
+    "median_salary": 1620,
+    "max_salary": 2730
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "США",
+    "profession": "Software Engineer",
+    "min_salary": 4620,
+    "median_salary": 8310,
+    "max_salary": 14320
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "США",
+    "profession": "Backend Developer",
+    "min_salary": 4330,
+    "median_salary": 8200,
+    "max_salary": 15450
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "США",
+    "profession": "DevOps",
+    "min_salary": 5100,
+    "median_salary": 8700,
+    "max_salary": 14990
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "США",
+    "profession": "Data Scientist",
+    "min_salary": 4520,
+    "median_salary": 9160,
+    "max_salary": 16740
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "США",
+    "profession": "Frontend Developer",
+    "min_salary": 5770,
+    "median_salary": 9210,
+    "max_salary": 15380
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "США",
+    "profession": "Analyst",
+    "min_salary": 6190,
+    "median_salary": 8570,
+    "max_salary": 13080
+  },
+  {
+    "grade": "Middle",
+    "sex": "Female",
+    "country": "США",
+    "profession": "Manager",
+    "min_salary": 5240,
+    "median_salary": 8490,
+    "max_salary": 14800
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "Software Engineer",
+    "min_salary": 1520,
+    "median_salary": 2580,
+    "max_salary": 3880
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "Backend Developer",
+    "min_salary": 1100,
+    "median_salary": 2280,
+    "max_salary": 4350
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "DevOps",
+    "min_salary": 1060,
+    "median_salary": 2640,
+    "max_salary": 4420
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "Data Scientist",
+    "min_salary": 1410,
+    "median_salary": 2460,
+    "max_salary": 4160
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "Frontend Developer",
+    "min_salary": 1550,
+    "median_salary": 2530,
+    "max_salary": 4560
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "Analyst",
+    "min_salary": 1340,
+    "median_salary": 2600,
+    "max_salary": 4230
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "Manager",
+    "min_salary": 1350,
+    "median_salary": 2470,
+    "max_salary": 4960
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "Software Engineer",
+    "min_salary": 3050,
+    "median_salary": 5420,
+    "max_salary": 8140
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "Backend Developer",
+    "min_salary": 2340,
+    "median_salary": 5330,
+    "max_salary": 7510
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "DevOps",
+    "min_salary": 2790,
+    "median_salary": 4720,
+    "max_salary": 9340
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "Data Scientist",
+    "min_salary": 2040,
+    "median_salary": 4540,
+    "max_salary": 8660
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "Frontend Developer",
+    "min_salary": 2950,
+    "median_salary": 4500,
+    "max_salary": 7800
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "Analyst",
+    "min_salary": 2480,
+    "median_salary": 4980,
+    "max_salary": 8650
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "Manager",
+    "min_salary": 2950,
+    "median_salary": 4660,
+    "max_salary": 9550
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "Software Engineer",
+    "min_salary": 530,
+    "median_salary": 1390,
+    "max_salary": 2820
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "Backend Developer",
+    "min_salary": 610,
+    "median_salary": 1640,
+    "max_salary": 3310
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "DevOps",
+    "min_salary": 520,
+    "median_salary": 1450,
+    "max_salary": 2700
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "Data Scientist",
+    "min_salary": 750,
+    "median_salary": 1630,
+    "max_salary": 2650
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "Frontend Developer",
+    "min_salary": 510,
+    "median_salary": 1590,
+    "max_salary": 2880
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "Analyst",
+    "min_salary": 760,
+    "median_salary": 1470,
+    "max_salary": 2630
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "Manager",
+    "min_salary": 780,
+    "median_salary": 1410,
+    "max_salary": 2630
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "США",
+    "profession": "Software Engineer",
+    "min_salary": 5720,
+    "median_salary": 8860,
+    "max_salary": 14410
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "США",
+    "profession": "Backend Developer",
+    "min_salary": 4060,
+    "median_salary": 9670,
+    "max_salary": 15810
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "США",
+    "profession": "DevOps",
+    "min_salary": 4760,
+    "median_salary": 8420,
+    "max_salary": 14710
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "США",
+    "profession": "Data Scientist",
+    "min_salary": 5260,
+    "median_salary": 9190,
+    "max_salary": 12530
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "США",
+    "profession": "Frontend Developer",
+    "min_salary": 4780,
+    "median_salary": 8160,
+    "max_salary": 14720
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "США",
+    "profession": "Analyst",
+    "min_salary": 4690,
+    "median_salary": 8480,
+    "max_salary": 15000
+  },
+  {
+    "grade": "Middle",
+    "sex": "Male",
+    "country": "США",
+    "profession": "Manager",
+    "min_salary": 5430,
+    "median_salary": 9700,
+    "max_salary": 15930
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "Software Engineer",
+    "min_salary": 2360,
+    "median_salary": 4150,
+    "max_salary": 8370
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "Backend Developer",
+    "min_salary": 2300,
+    "median_salary": 4190,
+    "max_salary": 6870
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "DevOps",
+    "min_salary": 2300,
+    "median_salary": 3730,
+    "max_salary": 6710
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "Data Scientist",
+    "min_salary": 1630,
+    "median_salary": 3760,
+    "max_salary": 7410
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "Frontend Developer",
+    "min_salary": 1860,
+    "median_salary": 3830,
+    "max_salary": 7780
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "Analyst",
+    "min_salary": 2290,
+    "median_salary": 3710,
+    "max_salary": 6460
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "СНГ",
+    "profession": "Manager",
+    "min_salary": 2030,
+    "median_salary": 3930,
+    "max_salary": 8150
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "Software Engineer",
+    "min_salary": 3300,
+    "median_salary": 6310,
+    "max_salary": 12180
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "Backend Developer",
+    "min_salary": 4110,
+    "median_salary": 6790,
+    "max_salary": 12290
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "DevOps",
+    "min_salary": 3100,
+    "median_salary": 6400,
+    "max_salary": 13100
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "Data Scientist",
+    "min_salary": 3620,
+    "median_salary": 7300,
+    "max_salary": 10370
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "Frontend Developer",
+    "min_salary": 3740,
+    "median_salary": 7400,
+    "max_salary": 11030
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "Analyst",
+    "min_salary": 3050,
+    "median_salary": 7520,
+    "max_salary": 13080
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "Германия",
+    "profession": "Manager",
+    "min_salary": 3780,
+    "median_salary": 7500,
+    "max_salary": 10070
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "Software Engineer",
+    "min_salary": 1270,
+    "median_salary": 2370,
+    "max_salary": 4460
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "Backend Developer",
+    "min_salary": 1130,
+    "median_salary": 2420,
+    "max_salary": 4570
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "DevOps",
+    "min_salary": 1590,
+    "median_salary": 2280,
+    "max_salary": 4920
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "Data Scientist",
+    "min_salary": 1570,
+    "median_salary": 2630,
+    "max_salary": 3850
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "Frontend Developer",
+    "min_salary": 1240,
+    "median_salary": 2370,
+    "max_salary": 4660
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "Analyst",
+    "min_salary": 1570,
+    "median_salary": 2400,
+    "max_salary": 3890
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "Индия",
+    "profession": "Manager",
+    "min_salary": 1470,
+    "median_salary": 2660,
+    "max_salary": 4870
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "США",
+    "profession": "Software Engineer",
+    "min_salary": 8370,
+    "median_salary": 14150,
+    "max_salary": 26000
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "США",
+    "profession": "Backend Developer",
+    "min_salary": 8950,
+    "median_salary": 13190,
+    "max_salary": 23020
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "США",
+    "profession": "DevOps",
+    "min_salary": 7080,
+    "median_salary": 15320,
+    "max_salary": 23360
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "США",
+    "profession": "Data Scientist",
+    "min_salary": 9140,
+    "median_salary": 12820,
+    "max_salary": 26060
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "США",
+    "profession": "Frontend Developer",
+    "min_salary": 7260,
+    "median_salary": 14030,
+    "max_salary": 20070
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "США",
+    "profession": "Analyst",
+    "min_salary": 6450,
+    "median_salary": 13930,
+    "max_salary": 25090
+  },
+  {
+    "grade": "Senior",
+    "sex": "Female",
+    "country": "США",
+    "profession": "Manager",
+    "min_salary": 8100,
+    "median_salary": 14940,
+    "max_salary": 27130
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "Software Engineer",
+    "min_salary": 1880,
+    "median_salary": 3880,
+    "max_salary": 7990
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "Backend Developer",
+    "min_salary": 1680,
+    "median_salary": 4060,
+    "max_salary": 7930
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "DevOps",
+    "min_salary": 1710,
+    "median_salary": 4340,
+    "max_salary": 8290
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "Data Scientist",
+    "min_salary": 1550,
+    "median_salary": 3780,
+    "max_salary": 7910
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "Frontend Developer",
+    "min_salary": 1950,
+    "median_salary": 3790,
+    "max_salary": 7570
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "Analyst",
+    "min_salary": 1510,
+    "median_salary": 4320,
+    "max_salary": 8490
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "СНГ",
+    "profession": "Manager",
+    "min_salary": 2360,
+    "median_salary": 3830,
+    "max_salary": 8190
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "Software Engineer",
+    "min_salary": 4450,
+    "median_salary": 7680,
+    "max_salary": 12730
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "Backend Developer",
+    "min_salary": 3470,
+    "median_salary": 6830,
+    "max_salary": 12010
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "DevOps",
+    "min_salary": 3640,
+    "median_salary": 6850,
+    "max_salary": 10580
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "Data Scientist",
+    "min_salary": 4680,
+    "median_salary": 7350,
+    "max_salary": 10320
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "Frontend Developer",
+    "min_salary": 3520,
+    "median_salary": 7450,
+    "max_salary": 11410
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "Analyst",
+    "min_salary": 4640,
+    "median_salary": 7360,
+    "max_salary": 11340
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "Германия",
+    "profession": "Manager",
+    "min_salary": 4570,
+    "median_salary": 7140,
+    "max_salary": 11470
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "Software Engineer",
+    "min_salary": 1220,
+    "median_salary": 2280,
+    "max_salary": 4170
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "Backend Developer",
+    "min_salary": 1410,
+    "median_salary": 2580,
+    "max_salary": 3820
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "DevOps",
+    "min_salary": 1300,
+    "median_salary": 2350,
+    "max_salary": 4730
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "Data Scientist",
+    "min_salary": 1140,
+    "median_salary": 2620,
+    "max_salary": 4210
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "Frontend Developer",
+    "min_salary": 1550,
+    "median_salary": 2530,
+    "max_salary": 4900
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "Analyst",
+    "min_salary": 1370,
+    "median_salary": 2470,
+    "max_salary": 4940
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "Индия",
+    "profession": "Manager",
+    "min_salary": 1440,
+    "median_salary": 2290,
+    "max_salary": 4280
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "США",
+    "profession": "Software Engineer",
+    "min_salary": 6470,
+    "median_salary": 14770,
+    "max_salary": 20510
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "США",
+    "profession": "Backend Developer",
+    "min_salary": 9080,
+    "median_salary": 13640,
+    "max_salary": 22320
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "США",
+    "profession": "DevOps",
+    "min_salary": 6150,
+    "median_salary": 13030,
+    "max_salary": 25870
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "США",
+    "profession": "Data Scientist",
+    "min_salary": 8890,
+    "median_salary": 14450,
+    "max_salary": 22420
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "США",
+    "profession": "Frontend Developer",
+    "min_salary": 6270,
+    "median_salary": 12880,
+    "max_salary": 24770
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "США",
+    "profession": "Analyst",
+    "min_salary": 9260,
+    "median_salary": 15180,
+    "max_salary": 21530
+  },
+  {
+    "grade": "Senior",
+    "sex": "Male",
+    "country": "США",
+    "profession": "Manager",
+    "min_salary": 8300,
+    "median_salary": 12990,
+    "max_salary": 21810
+  }
+]

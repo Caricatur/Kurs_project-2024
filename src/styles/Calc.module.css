@@ -1,5 +1,8 @@
 .calcStyle {
-    background-color: rgba(248, 224, 204, 0.4);;
+    background-color: rgba(248, 224, 204, 0.4);
+    border-radius: 2%;
+    margin-left: 5px;
+    margin-right: 5px;
 
 }
 
@@ -15,6 +18,10 @@
     font-optical-sizing: auto;
     /* font-weight: <weight>; */
     font-style: normal;
+    @media (max-width: 700px) {
+        font-size: small;
+        font-weight: bold;
+    }
 }
 
 .textStyle {
@@ -28,6 +35,9 @@
     font-optical-sizing: auto;
     /* font-weight: <weight>; */
     font-style: normal;
+    @media (max-width: 700px) {
+        font-size: small;
+    }
 }
 
 .firstSelect {
@@ -35,6 +45,7 @@
     max-width: 300px;
     /* border: solid rgba(103, 47, 1, 0.978); */
     font-size: 1.25vw;
+    padding-right: 10px;
 
 }
 
@@ -43,14 +54,19 @@
     max-width: 500px;
     /* border: solid rgba(103, 47, 1, 0.978); */
     font-size: 1.25vw;
+    padding-right: 10px;
 
 }
 
 .buttonStyle {
-    /* padding: 20px; */
+    /* padding: 10px; */
     max-width: 200px;
     margin: 20px;
     align-items: center;
     text-align: center;
-
+    padding-right: 10px;
+    @media (max-width: 600px) {
+        font-size: small;
+        max-width: 90%;
+    }
 }

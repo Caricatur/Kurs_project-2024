@@ -1,0 +1,38 @@
+[
+    {
+      "rating": 1,
+      "salary_mean": 6773.7
+    },
+    {
+      "rating": 1.5,
+      "salary_mean": 7166.5
+    },
+    {
+      "rating": 2,
+      "salary_mean": 6817.2
+    },
+    {
+      "rating": 2.5,
+      "salary_mean": 7870.5
+    },
+    {
+      "rating": 3,
+      "salary_mean": 9273.5
+    },
+    {
+      "rating": 3.5,
+      "salary_mean": 11077.1
+    },
+    {
+      "rating": 4,
+      "salary_mean": 10964.6
+    },
+    {
+      "rating": 4.5,
+      "salary_mean": 10683
+    },
+    {
+      "rating": 5,
+      "salary_mean": 11484.9
+    }
+  ]
